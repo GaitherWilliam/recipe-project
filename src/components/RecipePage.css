@@ -1,0 +1,63 @@
+.recipe-page-root {
+    background-color: var(--background);
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: double 3px var(--dark-pink);
+
+    padding: 2rem;
+    animation: slide-up 1s ease;
+    animation: pop-in 2s ease;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.recipe-page-root h2 {
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 1px var(--pink), 1px 1px 1px var(--pink);
+    font-size: 20pt;
+    margin-top: 0;
+}
+
+.recipe-page-root img {
+    float: left;
+}
+
+.recipe-page-root .recipe-page-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.recipe-page-root .recipe-page-image {
+    border: solid 2px var(--dark-pink);
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.recipe-page-root .recipe-page-top {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.recipe-page-root .recipe-page-ingredients {
+    margin-right: 20px;
+}
+
+@keyframes pop-in {
+    from {
+        transform: scale(0);
+    }
+
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes slide-up {
+    from {
+        transform: translateY(110%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}

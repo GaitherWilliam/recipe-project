@@ -1,13 +1,45 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+  --dark-pink: #2F4858;
+  --pink: #486A72;
+  --background: #C4D2BD;
+  --light-pink: #94B0A2;
+  --beige: #F7F5DD;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  margin: 0;
+  background-color: var(--beige);
+  color: var(--pink);
+}
+
+button {
+  font-weight: 800;
+
+  border: solid 2px var(--beige);
+  background-color: var(--dark-pink);
+  color: var(--beige);
+  border-radius: 50%;
+  padding: 0.5rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+button:hover {
+  border: solid 2px var(--dark-pink);
+  background-color: var(--beige);
+  color: var(--dark-pink);
+}
+
+p {
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  font-family: 'Barlow', sans-serif;
+  color: var(--pink);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Barlow', sans-serif;
+  color: var(--dark-pink);
 }

@@ -1,0 +1,66 @@
+{
+    "recipes": [
+        {
+            "name": "Chicken Parm",
+            "ingredients": [
+                "Chicken Breast",
+                "Italian Breadcrumbs",
+                "Marinara Sauce",
+                "Mozzarella Cheese",
+                "Spaghetti",
+                "Italian Parsley"
+            ],
+            "instructions": [
+                "1. Coat chicken evenly with italian breadcrumbs and pan fry ",
+                "2. Cook spaghetti in boling water with salt and olive oil according to packaging instructions",
+                "3. Put 1 cup marinara sauce on top of each chicken breast, and then top with an even layer of mozzarella",
+                "4. Bake at 400 F for 5-6 minutes or till cheese is melted",
+                "5. Serve over cooked spaghetti and finsih with chopped parsley"
+            ],
+            "servings": "4",
+            "time": "45 mins",
+            "cuisine": "Italian",
+            "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F03%2F19%2F223042-Chicken-Parmesan-mfs_003.jpg"
+        },
+        {
+            "name": "Mac n' Cheese",
+            "ingredients": [
+                "Elbow Pasta",
+                "Cheddar Cheese",
+                "Milk",
+                "Butter"
+            ],
+            "instructions": [
+                "1. Cook elbow pasta in boiling water with salt and olive oil according to packaging instructions",
+                "2. Melt butter in pot, and add milk and cheddar cooking at a low simmer till incorporated",
+                "3. Combine cooked pasta with cheese mixture and bake in a oven safe dish for 25 mins at 375 F, or dish is browned on top"
+            ],
+            "servings": "4",
+            "time": "40 mins",
+            "cuisine": "American",
+            "image": "https://www.spendwithpennies.com/wp-content/uploads/2021/10/Homemade-Mac-and-Cheese-Casserole-SpendWithPennies-12.jpg"
+        },
+        {
+            "name": "Chicken Biryani",
+            "ingredients": [
+                "Chicken Thigh",
+                "Basmatti Rice",
+                "Garam Masala",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Cashew",
+                "Golden Raisin"
+            ],
+            "instructions": [
+                "1. foo ",
+                "2. bar",
+                "3. serve"
+            ],
+            "servings": "4",
+            "time": "60 mins",
+            "cuisine": "Indian",
+            "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x500.jpg"
+        }
+    ]
+}
