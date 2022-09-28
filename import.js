@@ -1,6 +1,6 @@
 // Imports
 const firestoreService = require('firestore-export-import');
-const firebaseConfig = require('./src/lib/config.js');
+const firebaseConfig = require('./src/lib/config');
 const serviceAccount = require('./src/lib/serviceAccount.json');
 
 // JSON To Firestore

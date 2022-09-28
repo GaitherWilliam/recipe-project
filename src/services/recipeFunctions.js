@@ -1,46 +1,49 @@
-export function filterRecipes(recipes, search) {
+export function filterRecipes(recipes, search, cuisine, maximumTime) {
 
-    function check(str,) {
+    const MAX_LIMIT = 120;
+
+    function check(str) {
         let subString = search;
-        return str.toLowerCase().includes(subString.toLowerCase())
+        if (subString == "") {
+            return false
+        } else {
+            return str.toLowerCase().includes(subString.toLowerCase())
+        }
     }
 
     return recipes.filter(
         (recipe) => {
-            //if blah blah -> return true
-
-
-            // if name includes search
-            if (check(recipe.data.name)) {
-                return true
-            }
-            // loop all ingredients
-            for (let ingredient of recipe.data.ingredients) {
-                if (check(ingredient)) {
-                    console.log(ingredient, ' was found')
-                    return true
+            // check max time
+            // if the time is greater than to maximumTime its out
+            if (maximumTime <= MAX_LIMIT) {
+                if (recipe.data.time > maximumTime) {
+                    return false
                 }
             }
+            // if the cuisine doesnt match its out
+            // return false
+            if (cuisine !== "") {
+                if (recipe.data.cuisine !== cuisine) {
+                    return false
+                }
+            }
+            if (search !== "") {
+                if (check(recipe.data.name)) {
+                    return true
+                }
+                //if cuisine includes search
+                if (check(recipe.data.cuisine)) {
+                    return true
+                }
+                // loop all ingredients
+                for (let ingredient of recipe.data.ingredients) {
+                    if (check(ingredient)) {
+                        return true
+                    }
+                }
 
-            for (let i = 0; i < recipe.data.ingredients.length; i++) {
-                let ingredient = recipe.data.ingredients[i];
-                if (check(ingredient)) {
-                    return true
-                }
-                // if ing inclues name
-                //      return true
-                // console.log(recipe.data.ingredients[i])
+                return false
             }
-            // loop all instructions
-            for (let instruction of recipe.data.instructions) {
-                if (check(instruction)) {
-                    return true
-                }
-            }
-            return false
+            return true;
         });
-
 }
-
-// recipe.data.name.toLowerCase().includes(search.toLowerCase())
-// recipe.data.ingredients.map().toLowerCase().includes(search.toLowerCase())

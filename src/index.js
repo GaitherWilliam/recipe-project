@@ -6,8 +6,8 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import HomePage from './components/HomePage';
 import RecipePage from './components/RecipePage';
-import SearchResult from './components/SearchInputForm/SearchResult';
 import FavoritePage from './components/FavoritePage/FavoritePage';
+import NotFoundPage from './components/NotFoundPage/NotFoundPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,14 +15,16 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path='/' element={<App />}>
-        <Route path="/search/:searchParam" element={<SearchResult />} />
 
         <Route exact path="/" element={<HomePage />} >
           <Route path='/recipes/:id' element={<RecipePage />} />
         </Route>
 
-        <Route path='/favorites' element={<FavoritePage />} />
+        <Route path='/favorites' element={<FavoritePage />} >
+          <Route path='/favorites/:id' element={<RecipePage />} />
+        </Route>
 
+        <Route path="*" element={<NotFoundPage />} />
       </Route>
     </Routes>
   </BrowserRouter>

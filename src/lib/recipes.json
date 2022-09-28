@@ -18,7 +18,7 @@
                 "5. Serve over cooked spaghetti and finsih with chopped parsley"
             ],
             "servings": "4",
-            "time": "45 mins",
+            "time": 45,
             "cuisine": "Italian",
             "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F03%2F19%2F223042-Chicken-Parmesan-mfs_003.jpg"
         },
@@ -36,7 +36,7 @@
                 "3. Combine cooked pasta with cheese mixture and bake in a oven safe dish for 25 mins at 375 F, or dish is browned on top"
             ],
             "servings": "4",
-            "time": "40 mins",
+            "time": 40,
             "cuisine": "American",
             "image": "https://www.spendwithpennies.com/wp-content/uploads/2021/10/Homemade-Mac-and-Cheese-Casserole-SpendWithPennies-12.jpg"
         },
@@ -58,7 +58,7 @@
                 "3. serve"
             ],
             "servings": "4",
-            "time": "60 mins",
+            "time": 60,
             "cuisine": "Indian",
             "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x500.jpg"
         }

@@ -6,32 +6,33 @@ import { Link } from 'react-router-dom';
 import LoginButton from '../Login/LoginButton';
 import LogoutButton from '../Login/LogoutButton'
 import { UserContext } from '../../App';
+import { getAuth } from 'firebase/auth';
 
 
 
 export default function NavBar() {
 
-    const { activeUser } = useContext(UserContext)
+    const auth = getAuth()
+    const user = auth.currentUser;
 
     return (
-
         <div className='nav-root'>
             <nav className='nav-bar' >
                 <div className='left'>
-                    <div>
-                        <Link to="/">
-                            <FontAwesomeIcon icon={faHouse} className='icon' />
-                        </Link>
-                    </div>
-                    <Link to='/favorites'>
-                        <FontAwesomeIcon icon={faStar} className='icon' />
+                    <Link to="/">
+                        <FontAwesomeIcon icon={faHouse} className='icon' />
                     </Link>
+                    {user &&
+                        <Link to={'/favorites'}>
+                            <FontAwesomeIcon icon={faStar} className='icon' />
+                        </Link>
+                    }
                 </div>
                 <div className='right'>
-                    {activeUser
+                    {user
                         ? (
                             <>
-                                <div className='active-user'>{activeUser.displayName} </div>
+                                <div className='active-user'>{user.displayName} </div>
                                 <LogoutButton />
                             </>
                         )
@@ -40,10 +41,8 @@ export default function NavBar() {
                             <LoginButton />
                         </div>
                     }
-
                 </div>
             </nav>
         </div>
-
     )
 }

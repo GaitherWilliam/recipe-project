@@ -5,10 +5,8 @@ import './RecipeList.css'
 
 export default function RecipeList({ recipes }) {
 
-    console.log(recipes)
-
     return (
-        <div>
+        <div className='recipe-list-root'>
             <h2 className='list-title'>
                 Recipes
             </h2>

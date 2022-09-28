@@ -4,7 +4,7 @@ import { UserContext } from '../../App'
 
 export default function LoginButton() {
 
-    const { login } = useContext(UserContext)
+    const { login } = useContext(UserContext);
 
     const provider = new GoogleAuthProvider();
 
@@ -18,8 +18,8 @@ export default function LoginButton() {
                 const token = credential.accessToken;
                 // The signed-in user info.
                 const user = result.user;
-                console.log(user)
-                login(user)
+                console.log(user);
+                login(user);
                 // ...
             }).catch((error) => {
                 // Handle Errors here.

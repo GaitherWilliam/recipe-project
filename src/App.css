@@ -5,22 +5,10 @@
 
 .home-title {
     text-align: center;
-    font-size: 30px;
-    font-weight: 300;
-    letter-spacing: 1px;
-    display: grid;
-    grid-template-columns: 1fr max-content 1fr;
-    grid-template-rows: 27px 0;
-    grid-gap: 20px;
-    align-items: center;
+    font-size: 34px;
+    letter-spacing: 4px;
 }
 
-.home-title:after,
-.home-title:before {
-    content: " ";
-    display: block;
-    border-bottom: 3px double var(--pink);
-    border-top: 3px double var(--pink);
-    height: 5px;
-    background-color: var(--beige);
+.App {
+    position: relative;
 }

@@ -7,44 +7,32 @@ import RecipeList from "../RecipeList";
 function SearchInputForm() {
     const [recipes, setRecipes] = useState([]);
     const [search, setSearch] = useState("");
-    // const [filteredRecipes, setFilteredRecipes] = useState([]);
-    const filteredRecipes = filterRecipes(recipes, search)
-
+    const filteredRecipes = filterRecipes(recipes, search);
 
     useEffect(() => {
-        getRecipes()
+        getRecipes();
     }, [])
 
     useEffect(() => {
-
     }, [recipes])
 
     function getRecipes() {
 
-        const recipeCollectionRef = collection(db, 'recipes')
+        const recipeCollectionRef = collection(db, 'recipes');
 
         getDocs(recipeCollectionRef)
             .then(response => {
                 const recipes = response.docs.map(doc => ({
                     data: doc.data(),
                     id: doc.id
-                }))
-                setRecipes(recipes)
+                }));
+                setRecipes(recipes);
             })
-            .catch(error => console.log(error.message))
+            .catch(error => console.log(error.message));
     }
 
     return (
         <div>
-
-            <input
-                type="text"
-                placeholder="Chicken, garlic, tomato..."
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
-            />
-
-
             <RecipeList recipes={filteredRecipes} />
         </div>
     );

@@ -1,0 +1,22 @@
+.clock {
+    width: 2.5em;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    border: solid var(--pink) 2px;
+    content: '';
+    position: relative;
+    background-color: var(--beige);
+}
+
+.clock .minute-hand {
+    position: absolute;
+    border: solid var(--pink) 1.5px;
+    height: 1em;
+    left: 52%;
+    top: 50%;
+    border-radius: 70%;
+
+    transform-origin: left top;
+
+    transform: rotate(calc(6deg * var(--time) + 180deg));
+}

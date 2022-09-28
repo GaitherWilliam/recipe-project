@@ -4,15 +4,22 @@
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
-
-    border-top: double 2px var(--pink);
-    border-radius: 10px;
 }
 
 .recipe-list-container>* {
     flex: 1 0 300px;
 }
 
+.recipe-list-root {
+    border: double 3px var(--pink);
+    border-radius: 10px;
+    background-color: var(--beige);
+}
+
 .list-title {
+
+    margin: 0;
+    border-radius: 7px;
     text-align: center;
+    text-shadow: 1px 1px 1px var(--pink), 2px 2px 2px var(--pink);
 }

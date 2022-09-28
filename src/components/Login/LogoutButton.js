@@ -4,13 +4,13 @@ import { UserContext } from '../../App';
 
 export default function LoginButton() {
 
-    const { logout, user } = useContext(UserContext)
+    const { logout, user } = useContext(UserContext);
     const auth = getAuth();
 
     function onLogoutClicked() {
         signOut(auth).then(() => {
             // Sign-out successful.
-            logout(user)
+            logout(user);
         }).catch((error) => {
             // An error happened.
         });

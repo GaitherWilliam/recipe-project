@@ -1,0 +1,10 @@
+.rotd-root {
+    background-color: var(--beige);
+    padding: 1rem;
+    border: double 3px var(--dark-pink);
+    margin: 1rem;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 7px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}

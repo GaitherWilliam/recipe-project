@@ -1,14 +1,14 @@
 :root {
   --dark-pink: #2F4858;
-  --pink: #486A72;
-  --background: #C4D2BD;
-  --light-pink: #94B0A2;
-  --beige: #F7F5DD;
+  --pink: #3E6771;
+  --background: #D7E1B4;
+  --light-pink: #ACCA9D;
+  --beige: #faefe6;
 }
 
 body {
   margin: 0;
-  background-color: var(--beige);
+  background-image: url('https://media.istockphoto.com/vectors/kitchen-seamless-pattern-vector-background-vector-id475511846?k=20&m=475511846&s=612x612&w=0&h=h9lLBXEbEiTFVn7ZXyFtIJBFZXrpiXM8MBALubJndNM=');
   color: var(--pink);
 }
 

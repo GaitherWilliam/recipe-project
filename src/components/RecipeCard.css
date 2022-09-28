@@ -14,6 +14,13 @@
     align-items: flex-start;
     justify-content: space-between;
     gap: 5px;
+    position: relative;
+}
+
+.recipe-card-root .fav-button {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
 }
 
 .recipe-card-root img {

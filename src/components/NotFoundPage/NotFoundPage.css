@@ -1,0 +1,19 @@
+.not-found-root {
+    padding: 1rem 2rem;
+    background-color: var(--beige);
+    text-align: center;
+}
+
+
+.not-found-root .return-home {
+    background-color: var(--background);
+    color: var(--dark-pink);
+    font-weight: 600;
+    font-size: 18pt;
+    padding: 1rem;
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: 8px;
+    border: double 3px var(--pink);
+
+}

@@ -12,11 +12,11 @@ function App() {
 
   function login(newUser) {
     setActiveUser(newUser)
-  }
+  };
 
   function logout() {
     setActiveUser(null);
-  }
+  };
 
   return (
 

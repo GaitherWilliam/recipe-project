@@ -7,11 +7,11 @@ import './RecipePage.css'
 export default function RecipePage() {
 
     const { id } = useParams();
-    const [recipe, setRecipe] = useState()
+    const [recipe, setRecipe] = useState();
 
     useEffect(() => {
-        getRecipe()
-    }, [id])
+        getRecipe();
+    }, [id]);
 
     function getRecipe() {
         const docRef = doc(db, "recipes", id);
@@ -25,14 +25,13 @@ export default function RecipePage() {
                         let data = docSnap.data();
                         setRecipe(data);
                     } else {
-                        console.log("Document does not exist")
+                        console.log("Document does not exist");
                     }
                 })
-
         } catch (error) {
-            console.log(error)
+            console.log(error);
         }
-    }
+    };
 
     var location = useLocation();
     const autoScrollRef = useRef(null);
@@ -42,7 +41,7 @@ export default function RecipePage() {
         if (location.pathname.includes('/recipes/')) {
             autoScrollRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
         }
-    }, [location])
+    }, [location]);
 
 
     return (
