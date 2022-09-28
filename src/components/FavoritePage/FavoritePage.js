@@ -1,5 +1,6 @@
 import { collection, getDocs } from 'firebase/firestore';
 import React, { useEffect, useState } from 'react'
+import { Outlet } from 'react-router-dom';
 import { db } from '../../lib/init-firebase';
 import RecipeList from '../RecipeList';
 
@@ -29,6 +30,9 @@ export default function FavoritePage() {
     }
 
     return (
-        <div><RecipeList recipes={usersFavoriteRecipes} /></div>
+        <div>
+            <RecipeList recipes={usersFavoriteRecipes} />
+            <Outlet />
+        </div>
     )
 }

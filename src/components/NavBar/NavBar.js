@@ -19,7 +19,7 @@ export default function NavBar() {
         <div className='nav-root'>
             <nav className='nav-bar' >
                 <div className='left'>
-                    <Link to="/">
+                    <Link to="/recipes">
                         <FontAwesomeIcon icon={faHouse} className='icon' />
                     </Link>
                     {user &&

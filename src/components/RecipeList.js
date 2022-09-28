@@ -18,7 +18,6 @@ export default function RecipeList({ recipes }) {
                     />
                 ))}
             </ul>
-            <Outlet />
         </div>
     )
 }

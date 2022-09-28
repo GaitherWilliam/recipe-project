@@ -7,6 +7,7 @@ import { filterRecipes } from '../services/recipeFunctions'
 import './Clock.css'
 import './HomePage.css'
 import ClassicRecipeOfTheDay from './RecipeOfTheDay/ClassicRecipeOfTheDay'
+import { Outlet } from 'react-router-dom'
 
 export default function HomePage() {
 
@@ -90,12 +91,16 @@ export default function HomePage() {
                 </div>
 
             </div>
+
             {isRecipeListEmpty()
                 ?
                 <h1>No results for this search</h1>
                 :
                 <RecipeList recipes={filteredRecipes} />
             }
+
+            <Outlet />
+
         </div>
     )
 }

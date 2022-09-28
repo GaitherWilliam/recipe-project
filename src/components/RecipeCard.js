@@ -7,7 +7,7 @@ export default function RecipeCard({ id, name, image, cuisine, time }) {
 
     return (
         <div className='recipe-card-root'>
-            <Link className='card-link' to={'/recipes/' + id}>
+            <Link className='card-link' to={id}>
                 <div className='card-content'>
                     <img src={image} />
                     <div className='recipe-card-info'>
