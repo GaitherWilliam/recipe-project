@@ -1,6 +1,6 @@
 .recipe-page-root {
     background-color: var(--background);
-
+    margin-top: 70px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-top: double 3px var(--dark-pink);

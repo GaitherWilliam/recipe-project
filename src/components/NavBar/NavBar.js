@@ -1,11 +1,10 @@
-import React, { useContext } from 'react'
+import React from 'react'
 import './NavBar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHouse, faStar } from '@fortawesome/free-solid-svg-icons'
 import { Link } from 'react-router-dom';
 import LoginButton from '../Login/LoginButton';
 import LogoutButton from '../Login/LogoutButton'
-import { UserContext } from '../../App';
 import { getAuth } from 'firebase/auth';
 
 
