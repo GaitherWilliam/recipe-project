@@ -9,6 +9,7 @@ import RecipePage from './components/RecipePage';
 import FavoritePage from './components/FavoritePage/FavoritePage';
 import NotFoundPage from './components/NotFoundPage/NotFoundPage';
 import { ToastProvider } from './components/Toasts/ToastService';
+import SingleFavoriteDetail from './components/FavoritePage/SingleFavoriteDetail';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -23,7 +24,7 @@ root.render(
           </Route>
 
           <Route path='/favorites' element={<FavoritePage />} >
-            <Route path='/favorites/:id' element={<RecipePage />} />
+            <Route path='/favorites/:id' element={<SingleFavoriteDetail />} />
           </Route>
 
           <Route path="*" element={<NotFoundPage />} />

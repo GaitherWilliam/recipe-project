@@ -1,13 +1,13 @@
-import { collection, getDocs } from 'firebase/firestore'
-import React, { useEffect, useState } from 'react'
-import RecipeList from './RecipeList'
-import { db } from '../lib/init-firebase'
-import RecipeOfTheDay from './RecipeOfTheDay/RecipeOfTheDay'
-import { filterRecipes } from '../services/recipeFunctions'
-import './Clock.css'
-import './HomePage.css'
-import ClassicRecipeOfTheDay from './RecipeOfTheDay/ClassicRecipeOfTheDay'
-import { Outlet } from 'react-router-dom'
+import { collection, getDocs } from 'firebase/firestore';
+import React, { useEffect, useState } from 'react';
+import RecipeList from './RecipeList';
+import { db } from '../lib/init-firebase';
+import RecipeOfTheDay from './RecipeOfTheDay/RecipeOfTheDay';
+import { filterRecipes } from '../services/recipeFunctions';
+import './Clock.css';
+import './HomePage.css';
+import ClassicRecipeOfTheDay from './RecipeOfTheDay/ClassicRecipeOfTheDay';
+import { Outlet } from 'react-router-dom';
 
 export default function HomePage() {
 
@@ -40,7 +40,7 @@ export default function HomePage() {
 
     function isRecipeListEmpty() {
         return filteredRecipes.length == 0
-    }
+    };
 
     return (
         <div className='home-page-root'>

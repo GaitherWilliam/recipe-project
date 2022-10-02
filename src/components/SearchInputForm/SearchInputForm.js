@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { db } from '../../lib/init-firebase'
+import { db } from '../../lib/init-firebase';
 import { collection, getDocs } from 'firebase/firestore';
 import { filterRecipes } from "../../services/recipeFunctions";
 import RecipeList from "../RecipeList";
@@ -11,10 +11,7 @@ function SearchInputForm() {
 
     useEffect(() => {
         getRecipes();
-    }, [])
-
-    useEffect(() => {
-    }, [recipes])
+    }, []);
 
     function getRecipes() {
 

@@ -1,5 +1,5 @@
 import { getAuth, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
-import React, { useContext } from 'react'
+import React, { useContext } from 'react';
 import { UserContext } from '../../App'
 
 export default function LoginButton() {

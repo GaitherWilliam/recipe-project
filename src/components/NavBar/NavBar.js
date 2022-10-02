@@ -1,17 +1,17 @@
-import React from 'react'
+import React from 'react';
 import './NavBar.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHouse, faStar } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faHouse, faStar } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 import LoginButton from '../Login/LoginButton';
-import LogoutButton from '../Login/LogoutButton'
+import LogoutButton from '../Login/LogoutButton';
 import { getAuth } from 'firebase/auth';
 
 
 
 export default function NavBar() {
 
-    const auth = getAuth()
+    const auth = getAuth();
     const user = auth.currentUser;
 
     return (

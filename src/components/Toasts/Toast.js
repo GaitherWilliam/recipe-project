@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCheck, faTimes } from '@fortawesome/free-solid-svg-icons';
+import { faCheck, faExclamationTriangle, faInfoCircle, faTimes } from '@fortawesome/free-solid-svg-icons';
 import { faCommentAlt } from '@fortawesome/free-regular-svg-icons';
 import './Toast.css'
 
@@ -19,6 +19,15 @@ export default function Toast({ id, message, status, summary, sticky, removeToas
 
     if (status === 'success') {
         icon = faCheck;
+    } else if (status === 'warn') {
+        icon = faExclamationTriangle;
+    } else if (status === 'error') {
+        icon = faTimes;
+    } else if (status === 'info') {
+        icon = faInfoCircle;
+    } else {
+        icon = faInfoCircle;
+        status = 'info';
     }
 
     return (

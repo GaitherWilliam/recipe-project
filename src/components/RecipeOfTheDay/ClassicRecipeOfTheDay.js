@@ -1,6 +1,6 @@
-import React from 'react'
-import RecipeCard from '../RecipeCard'
-import './RecipeOfTheDay.css'
+import React from 'react';
+import RecipeCard from '../RecipeCard';
+import './RecipeOfTheDay.css';
 
 export default function ClassicRecipeOfTheDay({ recipe }) {
     return (

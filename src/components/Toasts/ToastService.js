@@ -40,6 +40,26 @@ export function useToasts() {
             let status = 'success';
             addToast({ message, summary, status, sticky: false });
         },
+        info: (message, summary) => {
+            let status = 'info';
+            console.log("work ?")
+            addToast({ message, summary, status, sticky: false });
+        },
+        warn: (message, summary) => {
+            let status = 'warning';
+            addToast({ message, summary, status, sticky: false });
+        },
+        error: (message, summary) => {
+            let status = 'error';
+            addToast({ message, summary, status, sticky: false });
+        },
+        add: ({ message, summary, status, sticky, position }) => {
+            if (!message) {
+                return;
+            }
+
+            addToast({ message, summary, status, sticky, position });
+        },
         clear: () => {
             setToasts([]);
         }

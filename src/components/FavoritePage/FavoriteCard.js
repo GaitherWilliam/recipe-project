@@ -1,7 +1,7 @@
-import React, { useEffect } from 'react'
-import { Link } from 'react-router-dom'
-import '../RecipeCard.css'
-import DeleteFavoriteButton from './DeleteFavoriteButton'
+import React from 'react';
+import { Link } from 'react-router-dom';
+import '../RecipeCard.css';
+import DeleteFavoriteButton from './DeleteFavoriteButton';
 
 export default function FavoriteCard({ id, name, image, cuisine, time }) {
 

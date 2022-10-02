@@ -1,29 +1,33 @@
-import { faStar } from '@fortawesome/free-solid-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faStar } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { getAuth } from 'firebase/auth';
 import { addDoc, collection } from 'firebase/firestore';
-import React from 'react'
+import React from 'react';
 import { db } from '../../lib/init-firebase';
 import { useToasts } from '../Toasts/ToastService';
 
 export default function FavoriteButton({ recipe }) {
 
-    const auth = getAuth()
+    const auth = getAuth();
     const user = auth.currentUser;
-    const toast = useToasts()
+    const toast = useToasts();
 
-    async function writeUsersFavorites() {
+    function writeUsersFavorites() {
         // write function to create data in usersFavorites collection
         console.log(user, recipe)
 
-        const docRef = await addDoc(collection(db, "usersFavorites"), {
+        const docRef = addDoc(collection(db, "usersFavorites"), {
             name: recipe.name,
             image: recipe.image,
             cuisine: recipe.cuisine,
-            time: recipe.time
-        })
-        toast.success('blah')
-        console.log(docRef.id)
+            time: recipe.time,
+            instructions: recipe.instructions,
+            ingredients: recipe.ingredients,
+            servings: recipe.servings
+        }).then(() => {
+            toast.success('Recipe was added to favorites')
+        });
+
     }
 
     return (

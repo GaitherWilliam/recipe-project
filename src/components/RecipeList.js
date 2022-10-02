@@ -1,7 +1,6 @@
-import React from 'react'
-import { Outlet } from 'react-router-dom'
-import RecipeCard from './RecipeCard'
-import './RecipeList.css'
+import React from 'react';
+import RecipeCard from './RecipeCard';
+import './RecipeList.css';
 
 export default function RecipeList({ recipes }) {
 

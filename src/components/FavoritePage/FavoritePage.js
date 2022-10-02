@@ -1,16 +1,17 @@
 import { collection, getDocs } from 'firebase/firestore';
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react';
 import { Outlet } from 'react-router-dom';
 import { db } from '../../lib/init-firebase';
 import FavoriteList from './FavoriteList';
 
 export default function FavoritePage() {
 
-    const [usersFavoriteRecipes, setUsersFavoriteRecipes] = useState([])
+    const [favoriteRecipes, setFavoriteRecipes] = useState([]);
 
     useEffect(() => {
         getFavoriteRecipes();
-    }, [usersFavoriteRecipes]);
+        console.log('a')
+    }, []);
 
     function getFavoriteRecipes() {
 
@@ -18,20 +19,20 @@ export default function FavoritePage() {
 
         getDocs(recipeCollectionRef)
             .then(response => {
-                const usersFavoriteRecipes = response.docs.map(doc => ({
+                const favoriteRecipes = response.docs.map(doc => ({
                     data: doc.data(),
                     id: doc.id
                 }));
-                setUsersFavoriteRecipes(usersFavoriteRecipes);
+                setFavoriteRecipes(favoriteRecipes);
             })
             .catch(error => {
-                console.log(error.message)
+                console.log(error.message);
             });
     }
 
     return (
         <div>
-            <FavoriteList recipes={usersFavoriteRecipes} />
+            <FavoriteList recipes={favoriteRecipes} />
             <Outlet />
         </div>
     )

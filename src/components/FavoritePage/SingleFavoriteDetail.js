@@ -1,10 +1,9 @@
 import { doc, getDoc, } from 'firebase/firestore';
-import React, { useEffect, useRef, useState } from 'react'
-import { useLocation, useParams } from 'react-router-dom'
-import { db } from '../lib/init-firebase';
-import './RecipePage.css'
+import React, { useEffect, useRef, useState } from 'react';
+import { useLocation, useParams } from 'react-router-dom';
+import { db } from '../../lib/init-firebase';
 
-export default function RecipePage() {
+export default function SingleFavoriteDetail() {
 
     const { id } = useParams();
     const [recipe, setRecipe] = useState();
@@ -14,7 +13,7 @@ export default function RecipePage() {
     }, [id]);
 
     function getRecipe() {
-        const docRef = doc(db, "recipes", id);
+        const docRef = doc(db, "usersFavorites", id);
 
         try {
             getDoc(docRef)
@@ -38,7 +37,7 @@ export default function RecipePage() {
 
     useEffect(() => {
         // 'snap to' some element
-        if (location.pathname.includes('/recipes/')) {
+        if (location.pathname.includes('/favorites/')) {
             autoScrollRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
         }
     }, [location]);
@@ -59,10 +58,11 @@ export default function RecipePage() {
             <div className='recipe-page-container'>
 
                 <img className='recipe-page-image' src={recipe?.image} width='300px' height='300px' />
+
                 <div className='recipe-page-ingredients'>
                     <h4> Ingredients:</h4>
                     <p>
-                        {recipe?.ingredients.map((ing, i) => (
+                        {recipe?.ingredients?.map((ing, i) => (
                             <li key={i}>{ing}</li>
                         ))}
                     </p>
@@ -71,7 +71,7 @@ export default function RecipePage() {
                     <h4>
                         Instructions:
                     </h4>
-                    {recipe?.instructions.map((inst, i) => (
+                    {recipe?.instructions?.map((inst, i) => (
                         <p key={i}>{inst}</p>
                     ))}
                 </div>
