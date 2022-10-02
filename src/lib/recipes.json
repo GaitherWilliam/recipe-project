@@ -61,6 +61,2331 @@
             "time": 60,
             "cuisine": "Indian",
             "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x500.jpg"
+        },
+        {
+            "name": "Crispy Sausages and Greens",
+            "cuisine": "Irish",
+            "instructions": [
+                "Preheat the oven to 350°. Remove the stems from one bunch of Tuscan kale and tear the leaves into 1\" pieces (mustard greens, collards, spinach, and chard are great, too). Coarsely chop half a head of green cabbage. Combine the greens in a large baking dish and add 4 cloves of thinly sliced garlic. Adding some sliced onions and shiitake mushrooms at this point is optional, but highly recommended (I'll sauté the onions and mushrooms in a cast iron baking dish right on the stove before adding to the greens). Coat the greens with some olive oil and pour ½ cup chicken stock or broth over everything. Cover the dish with foil and bake until the greens are wilted, about 15 minutes. Remove foil and season with salt and pepper. Continue to bake until cabbage is tender, about 20-25 minutes more.\r\n\r\nMeanwhile, heat a little olive oil in a large skillet over medium-high. Prick four sweet Italian sausages with a fork and cook until browned on all sides and cooked through, 10 to 12 minutes. When the greens are done, slice the sausage and toss into the greens with a splash of your favorite vinegar (I like sherry or red wine)."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
+            "ingredients": [
+                "Kale",
+                "Italian Fennel Sausages",
+                "Cabbage",
+                "Garlic Clove",
+                "Onion",
+                "Shiitake Mushrooms",
+                "Chicken Stock",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 90,
+            "servings": 10
+        },
+        {
+            "name": "Spotted Dick",
+            "cuisine": "British",
+            "instructions": [
+                "Put the flour and salt in a bowl. Add the suet, currants, sugar, lemon and orange zest.\r\nPour in 150ml milk and mix to a firm but moist dough, adding the extra milk if necessary.\r\nShape into a fat roll about 20cm long. Place on a large rectangle of baking parchment. Wrap loosely to allow for the pudding to rise and tie the ends with string like a Christmas cracker.\r\nPlace a steamer over a large pan of boiling water, add the pudding to the steamer, cover and steam for 1 1/2 hours. Top up the pan with water from time to time.\r\nRemove from the steamer and allow to cool slightly before unwrapping. Serve sliced with custard."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg",
+            "ingredients": [
+                "Self-raising Flour",
+                "Salt",
+                "Suet",
+                "Currants",
+                "Caster Sugar",
+                "Lemon",
+                "Orange",
+                "Milk",
+                "Custard"
+            ],
+            "time": 120,
+            "servings": 4
+        },
+        {
+            "name": "Beef Brisket Pot Roast",
+            "cuisine": "American",
+            "instructions": [
+                "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+            "ingredients": [
+                "Beef Brisket",
+                "Salt",
+                "Onion",
+                "Garlic",
+                "Thyme",
+                "Rosemary",
+                "Bay Leaves",
+                "beef stock",
+                "Carrots",
+                "Mustard",
+                "Potatoes"
+            ],
+            "time": 145,
+            "servings": 7
+        },
+        {
+            "name": "Boulangère Potatoes",
+            "cuisine": "French",
+            "instructions": [
+                "Heat oven to 200C/fan 180C/gas 6. Fry the onions and thyme sprigs in the oil until softened and lightly coloured (about 5 mins).\r\nSpread a layer of potatoes over the base of a 1.5-litre oiled gratin dish. Sprinkle over a few onions (see picture, above) and continue layering, finishing with a layer of potatoes. Pour over the stock and bake for 50-60 mins until the potatoes are cooked and the top is golden and crisp."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+            "ingredients": [
+                "Onions",
+                "Thyme",
+                "Olive Oil",
+                "Potatoes",
+                "Vegetable Stock"
+            ],
+            "time": 90,
+            "servings": 9
+        },
+        {
+            "name": "Portuguese prego with green piri-piri",
+            "cuisine": "Portuguese",
+            "instructions": [
+                "STEP 1\r\n\r\nRub the garlic over the steaks then put in a sandwich bag and tip in the olive oil, sherry vinegar and parsley stalks. Smoosh everything together, then use a rolling pin to bash the steaks a few times. Leave for 1-2 hours.\r\n\r\nSTEP 2\r\n\r\nTo make the sauce, put all the ingredients into a blender with 1 tbsp water and whizz until as smooth as possible. This will make more than you’ll need for the recipe but will keep for a week in an airtight jar.\r\n\r\nSTEP 3\r\n\r\nHeat a griddle or frying pan to high. Brush away the garlic and parsley stalks from the steaks and season well. Sear the steaks for 2 minutes on each side then rest on a plate. Put the ciabatta halves onto the plate, toasted-side down, to soak up any juices.\r\n\r\nSTEP 4\r\n\r\nSlice the steaks then stuff into the rolls with the green sauce and rocket."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
+            "ingredients": [
+                "Garlic",
+                "Beef Fillet",
+                "Olive Oil",
+                "Vinegar",
+                "Parsley",
+                "Ciabatta",
+                "Rocket",
+                "Basil Leaves",
+                "Parsley",
+                "Jalapeno",
+                "Vinegar",
+                "Spring Onions",
+                "Garlic",
+                "Caster Sugar"
+            ],
+            "time": 50,
+            "servings": 2
+        },
+        {
+            "name": "Japanese Katsudon",
+            "cuisine": "Japanese",
+            "instructions": [
+                "STEP 1\r\nHeat the oil in a pan, fry the sliced onion until golden brown, then add the tonkatsu (see recipe here), placing it in the middle of the pan. Mix the dashi, soy, mirin and sugar together and tip three-quarters of the mixture around the tonkatsu. Sizzle for a couple of mins so the sauce thickens a little and the tonkatsu reheats.\r\n\r\nSTEP 2\r\nTip the beaten eggs around the tonkatsu and cook for 2-3 mins until the egg is cooked through but still a little runny. Divide the rice between two bowls, then top each with half the egg and tonkatsu mix, sprinkle over the chives and serve immediately, drizzling with a little more soy if you want an extra umami kick."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
+            "ingredients": [
+                "Vegetable Oil",
+                "Onion",
+                "Pork",
+                "Vegetable Stock",
+                "Soy Sauce",
+                "Mirin",
+                "Sugar",
+                "Eggs",
+                "Sushi Rice",
+                "Chives"
+            ],
+            "time": 15,
+            "servings": 10
+        },
+        {
+            "name": "Broccoli & Stilton soup",
+            "cuisine": "British",
+            "instructions": [
+                "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch.\r\n\r\nAdd the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid.\r\n\r\nPour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft.\r\n\r\nAdd the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+            "ingredients": [
+                "Rapeseed Oil",
+                "Onion",
+                "Celery",
+                "Leek",
+                "Potatoes",
+                "Butter",
+                "Vegetable Stock",
+                "Broccoli",
+                "Stilton Cheese"
+            ],
+            "time": 30,
+            "servings": 7
+        },
+        {
+            "name": "Mee goreng mamak",
+            "cuisine": "Malaysian",
+            "instructions": [
+                "Heat oil in a pan at medium heat. Then, add peanuts, dried chilies, dried shrimps and dhal. Fry the aromatics until fragrant. Remove from pan and leave aside.\r\n\r\nBlend fried ingredients with tamarind paste and water until fine. Then, sauté the blended ingredients in oil heated over low heat. Continue cooking until the oil separates from the paste and turns a darker shade.\r\n\r\nSkin and cut potatoes into small chunks and boil them in a pot of water until knife-tender. Once ready, remove them from the pot and leave aside. Discard water.\r\n\r\nSlice onion and fried tofu, mince garlic, cut some cabbage and Chinese flowering cabbage (choi sam). Prepare prawn fritters and cut them. Boil noodles to soften them if bought dried. Also mix black soy sauce with water.\r\n\r\nTo fry one portion of mee goreng mamak, heat oil and add 1/4 of the following ingredients in this order: garlic, onion, paste. Sauté until fragrant. Optionally, add prawns.\r\n\r\nAdd in 1/4 amount of tofu, boiled potatoes, cabbage, Chinese flowering cabbage and prawn fritters. Sauté for another 30 seconds.\r\n\r\nAdd noodles to the wok. Add 3 tablespoons of dark soy sauce mixture. Mix evenly for the next 1 minute. Then, move the noodles to the side of the wok. Stir in an egg. Garnish with a slice of lime and slices of green chilies. To cook another plate of noodles, repeat from step 5 onwards."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
+            "ingredients": [
+                "Peanuts",
+                "Chilli",
+                "Prawns",
+                "Oil",
+                "Water",
+                "Tamarind Paste",
+                "Potatoes",
+                "Red Onions",
+                "Garlic Clove",
+                "Cabbage",
+                "Chinese Broccoli",
+                "Tofu",
+                "Soy Sauce",
+                "Noodles",
+                "Egg"
+            ],
+            "time": 40,
+            "servings": 2
+        },
+        {
+            "name": "Beef Sunday Roast",
+            "cuisine": "British",
+            "instructions": [
+                "Cook the Broccoli and Carrots in a pan of boiling water until tender.\r\n\r\nRoast the Beef and Potatoes in the oven for 45mins, the potatoes may need to be checked regularly to not overcook.\r\n\r\nTo make the Yorkshire puddings:\r\nHeat oven to 230C/fan 210C/gas 8. Drizzle a little sunflower oil evenly into 2 x 4-hole Yorkshire pudding tins or a 12-hole non-stick muffin tin and place in the oven to heat through\r\nTo make the batter, tip 140g plain flour into a bowl and beat in four eggs until smooth. Gradually add 200ml milk and carry on beating until the mix is completely lump-free. Season with salt and pepper. Pour the batter into a jug, then remove the hot tins from the oven. Carefully and evenly pour the batter into the holes. Place the tins back in the oven and leave undisturbed for 20-25 mins until the puddings have puffed up and browned. Serve immediately.\r\n\r\nPlate up and add the Gravy as desired."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+            "ingredients": [
+                "Beef",
+                "Broccoli",
+                "Potatoes",
+                "Carrots",
+                "plain flour",
+                "Eggs",
+                "milk",
+                "sunflower oil"
+            ],
+            "time": 55,
+            "servings": 7
+        },
+        {
+            "name": "Turkey Meatloaf",
+            "cuisine": "British",
+            "instructions": [
+                "Heat oven to 180C/160C fan/gas 4. Heat the oil in a large frying pan and cook the onion for 8-10 mins until softened. Add the garlic, Worcestershire sauce and 2 tsp tomato purée, and stir until combined. Set aside to cool.\r\n\r\nPut the turkey mince, egg, breadcrumbs and cooled onion mix in a large bowl and season well. Mix everything to combine, then shape into a rectangular loaf and place in a large roasting tin. Spread 2 tbsp barbecue sauce over the meatloaf and bake for 30 mins.\r\n\r\nMeanwhile, drain 1 can of beans only, then pour both cans into a large bowl. Add the remaining barbecue sauce and tomato purée. Season and set aside.\r\n\r\nWhen the meatloaf has had its initial cooking time, scatter the beans around the outside and bake for 15 mins more until the meatloaf is cooked through and the beans are piping hot. Scatter over the parsley and serve the meatloaf in slices."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+            "ingredients": [
+                "Olive Oil",
+                "Onion",
+                "Garlic",
+                "Worcestershire Sauce",
+                "Tomato Puree",
+                "Turkey Mince",
+                "Eggs",
+                "Breadcrumbs",
+                "Barbeque Sauce",
+                "Cannellini Beans",
+                "Parsley"
+            ],
+            "time": 45,
+            "servings": 8
+        },
+        {
+            "name": "Pilchard puttanesca",
+            "cuisine": "Italian",
+            "instructions": [
+                "Cook the pasta following pack instructions. Heat the oil in a non-stick frying pan and cook the onion, garlic and chilli for 3-4 mins to soften. Stir in the tomato purée and cook for 1 min, then add the pilchards with their sauce. Cook, breaking up the fish with a wooden spoon, then add the olives and continue to cook for a few more mins.\r\n\r\nDrain the pasta and add to the pan with 2-3 tbsp of the cooking water. Toss everything together well, then divide between plates and serve, scattered with Parmesan."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+            "ingredients": [
+                "Spaghetti",
+                "Olive Oil",
+                "Onion",
+                "Garlic",
+                "Red Chilli",
+                "Tomato Puree",
+                "Pilchards",
+                "Black Olives",
+                "Parmesan"
+            ],
+            "time": 5,
+            "servings": 5
+        },
+        {
+            "name": "Pate Chinois",
+            "cuisine": "Canadian",
+            "instructions": [
+                "In a large pot of salted water, cook the potatoes until they are very tender. Drain.\r\nWith a masher, coarsely crush the potatoes with at least 30 ml (2 tablespoons) of butter. With an electric mixer, purée with the milk. Season with salt and pepper. Set aside.\r\nWith the rack in the middle position, preheat the oven to 190 °C (375 °F).\r\nIn a large skillet, brown the onion in the remaining butter. Add the meat and cook until golden brown. Season with salt and pepper. Remove from the heat.\r\nLightly press the meat at the bottom of a 20-cm (8-inch) square baking dish. Cover with the corn and the mashed potatoes. Sprinkle with paprika and parsley.\r\nBake for about 30 minutes. Finish cooking under the broiler. Let cool for 10 minutes."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg",
+            "ingredients": [
+                "Potatoes",
+                "Butter",
+                "Milk",
+                "Minced Beef",
+                "Onion",
+                "Creamed Corn",
+                "Paprika",
+                "Parsley",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 110,
+            "servings": 2
+        },
+        {
+            "name": "Timbits",
+            "cuisine": "Canadian",
+            "instructions": [
+                "Sift together dry ingredients.\r\nMix together wet ingredients and incorporate into dry. Stir until smooth.\r\nDrop by teaspoonfuls(no bigger) into hot oil (365 degrees, no hotter), turning after a few moments until golden brown on all sides.\r\nRemove and drain.\r\nRoll in cinnamon sugar while still warm and serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg",
+            "ingredients": [
+                "Flour",
+                "Sugar",
+                "Baking Powder",
+                "Salt",
+                "Egg",
+                "Milk",
+                "Oil",
+                "Oil",
+                "Icing Sugar"
+            ],
+            "time": 105,
+            "servings": 2
+        },
+        {
+            "name": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+            "cuisine": "American",
+            "instructions": [
+                "1\r\n\r\nPreheat oven to 425 degrees. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into ¼-inch-thick pieces. Dice potatoes into ½-inch pieces. Halve, peel, and thinly slice onion.\r\n\r\n2\r\n\r\nToss carrots on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 15-20 minutes.\r\n\r\n3\r\n\r\nMeanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 12-15 minutes. Drain and return potatoes to pot; cover to keep warm.\r\n\r\n4\r\n\r\nWhile potatoes cook, heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring occasionally, until lightly browned and softened, 8-10 minutes. Sprinkle with 1 tsp sugar (2 tsp for 4 servings). Stir in stock concentrate and 2 TBSP water (¼ cup for 4); season with salt and pepper. Cook until jammy, 2-3 minutes more. Turn off heat; transfer to a small bowl. Wash out pan.\r\n\r\n5\r\n\r\nPat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in pan used for onion over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. In the last 1-2 minutes of cooking, top with caramelized onion and cheese. Cover pan until cheese melts. (If your pan doesn’t have a lid, cover with a baking sheet!)\r\n\r\n6\r\n\r\nHeat pot with drained potatoes over low heat; mash with sour cream, 2 TBSP butter (4 TBSP for 4 servings), salt, pepper, and a splash of water (or milk, for extra richness) until smooth. Divide chicken, roasted carrots, and mashed potatoes between plates."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+            "ingredients": [
+                "Chicken Breasts",
+                "Carrots",
+                "Small Potatoes",
+                "Onion",
+                "Beef Stock",
+                "Mozzarella",
+                "Sour Cream",
+                "Butter",
+                "Sugar",
+                "Vegetable Oil",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 105,
+            "servings": 10
+        },
+        {
+            "name": "Mee goreng mamak",
+            "cuisine": "Malaysian",
+            "instructions": [
+                "Heat oil in a pan at medium heat. Then, add peanuts, dried chilies, dried shrimps and dhal. Fry the aromatics until fragrant. Remove from pan and leave aside.\r\n\r\nBlend fried ingredients with tamarind paste and water until fine. Then, sauté the blended ingredients in oil heated over low heat. Continue cooking until the oil separates from the paste and turns a darker shade.\r\n\r\nSkin and cut potatoes into small chunks and boil them in a pot of water until knife-tender. Once ready, remove them from the pot and leave aside. Discard water.\r\n\r\nSlice onion and fried tofu, mince garlic, cut some cabbage and Chinese flowering cabbage (choi sam). Prepare prawn fritters and cut them. Boil noodles to soften them if bought dried. Also mix black soy sauce with water.\r\n\r\nTo fry one portion of mee goreng mamak, heat oil and add 1/4 of the following ingredients in this order: garlic, onion, paste. Sauté until fragrant. Optionally, add prawns.\r\n\r\nAdd in 1/4 amount of tofu, boiled potatoes, cabbage, Chinese flowering cabbage and prawn fritters. Sauté for another 30 seconds.\r\n\r\nAdd noodles to the wok. Add 3 tablespoons of dark soy sauce mixture. Mix evenly for the next 1 minute. Then, move the noodles to the side of the wok. Stir in an egg. Garnish with a slice of lime and slices of green chilies. To cook another plate of noodles, repeat from step 5 onwards."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
+            "ingredients": [
+                "Peanuts",
+                "Chilli",
+                "Prawns",
+                "Oil",
+                "Water",
+                "Tamarind Paste",
+                "Potatoes",
+                "Red Onions",
+                "Garlic Clove",
+                "Cabbage",
+                "Chinese Broccoli",
+                "Tofu",
+                "Soy Sauce",
+                "Noodles",
+                "Egg"
+            ],
+            "time": 10,
+            "servings": 10
+        },
+        {
+            "name": "Peanut Butter Cheesecake",
+            "cuisine": "American",
+            "instructions": [
+                "Oil and line a 20cm round loose- bottomed cake tin with cling film, making it as smooth as possible. Melt the butter in a pan. Crush the biscuits by bashing them in a bag with a rolling pin, then stir them into the butter until very well coated. Press the mixture firmly into the base of the tin and chill.\r\nSoak the gelatine in water while you make the filling. Tip the ricotta into a bowl, then beat in the peanut butter and syrup. Ricotta has a slightly grainy texture so blitz until smooth with a stick blender for a smoother texture if you prefer.\r\nTake the soaked gelatine from the water and squeeze dry. Put it into a pan with the milk and heat very gently until the gelatine dissolves. Beat into the peanut mixture, then tip onto the biscuit base. Chill until set.\r\nTo freeze, leave in the tin and as soon as it is solid, cover the surface with cling film, then wrap the tin with cling film and foil.\r\nTo defrost, thaw in the fridge overnight.\r\nTo serve, carefully remove from the tin. Whisk the cream with the sugar until it holds its shape, then spread on top of the cheesecake and scatter with the peanut brittle."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg",
+            "ingredients": [
+                "Butter",
+                "Peanut Cookies",
+                "Gelatine Leafs",
+                "Ricotta",
+                "Peanut Butter",
+                "Golden Syrup",
+                "Milk",
+                "Double Cream",
+                "Light Brown Soft Sugar",
+                "Peanut Brittle"
+            ],
+            "time": 145,
+            "servings": 10
+        },
+        {
+            "name": "Mince Pies",
+            "cuisine": "British",
+            "instructions": [
+                "To make the pastry, rub 225g cold, diced butter into 350g plain flour, then mix in 100g golden caster sugar and a pinch of salt.\r\n\r\nCombine the pastry into a ball – don’t add liquid – and knead it briefly. The dough will be fairly firm, like shortbread dough. You can use the dough immediately, or chill for later.\r\n\r\nPreheat the oven to 200C/gas 6/fan 180C. Line 18 holes of two 12-hole patty tins, by pressing small walnut-sized balls of pastry into each hole.\r\n\r\nSpoon 280g mincemeat into the pies.\r\n\r\nTake slightly smaller balls of pastry than before and pat them out between your hands to make round lids, big enough to cover the pies. \r\n\r\nTop the pies with their lids, pressing the edges gently together to seal – you don’t need to seal them with milk or egg as they will stick on their own. (The pies may now be frozen for up to 1 month).\r\n\r\nBeat 1 small egg and brush the tops of the pies. Bake for 20 mins until golden. Leave to cool in the tin for 5 mins, then remove to a wire rack.\r\n\r\nTo serve, lightly dust with icing sugar."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg",
+            "ingredients": [
+                "Butter",
+                "Plain Flour",
+                "Caster Sugar",
+                "Mincemeat",
+                "Egg",
+                "Icing Sugar"
+            ],
+            "time": 65,
+            "servings": 9
+        },
+        {
+            "name": "Pumpkin Pie",
+            "cuisine": "American",
+            "instructions": [
+                "Place the pumpkin in a large saucepan, cover with water and bring to the boil. Cover with a lid and simmer for 15 mins or until tender. Drain pumpkin; let cool.\r\nHeat oven to 180C/160C fan/gas 4. Roll out the pastry on a lightly floured surface and use it to line a 22cm loose-bottomed tart tin. Chill for 15 mins. Line the pastry with baking parchment and baking beans, then bake for 15 mins. Remove the beans and paper, and cook for a further 10 mins until the base is pale golden and biscuity. Remove from the oven and allow to cool slightly.\r\nIncrease oven to 220C/200C fan/gas 7. Push the cooled pumpkin through a sieve into a large bowl. In a separate bowl, combine the sugar, salt, nutmeg and half the cinnamon. Mix in the beaten eggs, melted butter and milk, then add to the pumpkin purée and stir to combine. Pour into the tart shell and cook for 10 mins, then reduce the temperature to 180C/160C fan/gas 4. Continue to bake for 35-40 mins until the filling has just set.\r\nLeave to cool, then remove the pie from the tin. Mix the remaining cinnamon with the icing sugar and dust over the pie. Serve chilled."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg",
+            "ingredients": [
+                "Pumpkin",
+                "Shortcrust Pastry",
+                "Plain Flour",
+                "Caster Sugar",
+                "Salt",
+                "Nutmeg",
+                "Cinnamon",
+                "Eggs",
+                "Butter",
+                "Milk",
+                "Icing Sugar"
+            ],
+            "time": 40,
+            "servings": 10
+        },
+        {
+            "name": "Madeira Cake",
+            "cuisine": "British",
+            "instructions": [
+                "Pre-heat the oven to 180C/350F/Gas 4. Grease an 18cm/7in round cake tin, line the base with greaseproof paper and grease the paper.\r\nCream the butter and sugar together in a bowl until pale and fluffy. Beat in the eggs, one at a time, beating the mixture well between each one and adding a tablespoon of the flour with the last egg to prevent the mixture curdling.\r\nSift the flour and gently fold in, with enough milk to give a mixture that falls slowly from the spoon. Fold in the lemon zest.\r\nSpoon the mixture into the prepared tin and lightly level the top. Bake on the middle shelf of the oven for 30-40 minutes, or until golden-brown on top and a skewer inserted into the centre comes out clean.\r\nRemove from the oven and set aside to cool in the tin for 10 minutes, then turn it out on to a wire rack and leave to cool completely.\r\nTo serve, decorate the cake with the candied peel."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg",
+            "ingredients": [
+                "Butter",
+                "Caster Sugar",
+                "Eggs",
+                "Self-raising Flour",
+                "Milk",
+                "Lemon",
+                "Mixed Peel"
+            ],
+            "time": 65,
+            "servings": 9
+        },
+        {
+            "name": "Krispy Kreme Donut",
+            "cuisine": "American",
+            "instructions": [
+                "Dissolve yeast in warm water in 2 1/2-quart bowl. Add milk, sugar, salt, eggs, shortening and 2 cups flour. Beat on low for 30 seconds, scraping bowl constantly. Beat on medium speed for 2 minutes, scraping bowl occasionally. Stir in remaining flour until smooth. Cover and let rise until double, 50-60 minutes. (Dough is ready when indentation remains when touched.) Turn dough onto floured surface; roll around lightly to coat with flour. Gently roll dough 1/2-inch thick with floured rolling pin. Cut with floured doughnut cutter. Cover and let rise until double, 30-40 minutes.\r\nHeat vegetable oil in deep fryer to 350°. Slide doughnuts into hot oil with wide spatula. Turn doughnuts as they rise to the surface. Fry until golden brown, about 1 minute on each side. Remove carefully from oil (do not prick surface); drain. Dip the doughnuts into creamy glaze set on rack.\r\n\r\n\r\nGlaze: \r\nHeat butter until melted. Remove from heat. Stir in powdered sugar and vanilla until smooth. Stir in water, 1 tablespoon at a time, until desired consistency."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
+            "ingredients": [
+                "Yeast",
+                "Water",
+                "Water",
+                "Sugar",
+                "Salt",
+                "Eggs",
+                "Shortening",
+                "Flour",
+                "Canola Oil",
+                "Milk",
+                "Sugar",
+                "Vanilla",
+                "Boiling Water",
+                "Butter"
+            ],
+            "time": 130,
+            "servings": 4
+        },
+        {
+            "name": "Canadian Butter Tarts",
+            "cuisine": "Canadian",
+            "instructions": [
+                "Preheat the oven to fan 170C/ conventional 190C/gas 5. Roll out the pastry on a lightly floured surface so it’s slightly thinner than straight from the pack. Then cut out 18-20 rounds with a 7.5cm fluted cutter, re-rolling the trimmings. Use the rounds to line two deep 12-hole tart tins (not muffin tins). If you only have a regular-sized, 12-hole tart tin you will be able to make a few more slightly shallower tarts.\r\nBeat the eggs in a large bowl and combine with the rest of the ingredients except the walnuts. Tip this mixture into a pan and stir continuously for 3-4 minutes until the butter melts, and the mixture bubbles and starts to thicken. It should be thick enough to coat the back of a wooden spoon. Don’t overcook, and be sure to stir all the time as the mixture can easily burn. Remove from the heat and stir in the nuts.\r\nSpoon the filling into the unbaked tart shells so it’s level with the pastry. Bake for 15-18 minutes until set and pale golden. Leave in the tin to cool for a few minutes before lifting out on to a wire rack. Serve warm or cold."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+            "ingredients": [
+                "Shortcrust Pastry",
+                "Eggs",
+                "Muscovado Sugar",
+                "Raisins",
+                "Vanilla Extract",
+                "Butter",
+                "Single Cream",
+                "Walnuts"
+            ],
+            "time": 70,
+            "servings": 8
+        },
+        {
+            "name": "Provençal Omelette Cake",
+            "cuisine": "French",
+            "instructions": [
+                "Break the eggs into two bowls, five in each. Whisk lightly and season with salt and pepper. Heat the oil in a pan, add the courgettes and spring onions, then fry gently for about 10 mins until softened. Cool, then stir into one bowl of eggs with a little salt and pepper. Add the roasted peppers to the other bowl of eggs with the garlic, chilli, salt and pepper.\r\nHeat a little oil in a 20-23cm frying pan, preferably non-stick. Pour the eggs with courgette into a measuring jug, then pourabout one-third of the mixture into the pan, swirling it to cover the base of the pan. Cook until the egg is set and lightly browned underneath, then cover the pan with a plate and invert the omelette onto it. Slide it back into the pan to cook the other side. Repeat with the remaining mix to make two more omelettes, adding a little oil to the pan each time. Stack the omelettes onto a plate. Make three omelettes in the same way with the red pepper mixture, then stack them on a separate plate.\r\nNow make the filling. Beat the cheese to soften it, then beat in the milk to make a spreadable consistency. Stir in the herbs, salt and pepper. Line a deep, 20-23cm round cake tin with cling film (use a tin the same size as the frying pan). Select the best red pepper omelette and place in the tin, prettiest side down. Spread with a thin layer of cheese filling, then cover with a courgette omelette. Repeat, alternating the layers, until all the omelettes and filling are in the tin, finishing with an omelette. Flip the cling film over the omelette, then chill for up to 24 hrs.\r\nTo serve, invert the omelette cake onto a serving plate and peel off the cling film. Pile rocket on the top and scatter over the cheese, a drizzle of olive oil and a little freshly ground black pepper. Serve cut into wedges."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qwtrtp1511799242.jpg",
+            "ingredients": [
+                "Eggs",
+                "Olive Oil",
+                "Courgettes",
+                "Spring Onions",
+                "Red Pepper",
+                "Garlic Clove",
+                "Red Chilli",
+                "Cream Cheese",
+                "Milk",
+                "Chives",
+                "Basil",
+                "Rocket",
+                "Parmesan"
+            ],
+            "time": 120,
+            "servings": 4
+        },
+        {
+            "name": "French Omelette",
+            "cuisine": "French",
+            "instructions": [
+                "Get everything ready. Warm a 20cm (measured across the top) non-stick frying pan on a medium heat. Crack the eggs into a bowl and beat them with a fork so they break up and mix, but not as completely as you would for scrambled egg. With the heat on medium-hot, drop one knob of butter into the pan. It should bubble and sizzle, but not brown. Season the eggs with the Parmesan and a little salt and pepper, and pour into the pan.\r\nLet the eggs bubble slightly for a couple of seconds, then take a wooden fork or spatula and gently draw the mixture in from the sides of the pan a few times, so it gathers in folds in the centre. Leave for a few seconds, then stir again to lightly combine uncooked egg with cooked. Leave briefly again, and when partly cooked, stir a bit faster, stopping while there’s some barely cooked egg left. With the pan flat on the heat, shake it back and forth a few times to settle the mixture. It should slide easily in the pan and look soft and moist on top. A quick burst of heat will brown the underside.\r\nGrip the handle underneath. Tilt the pan down away from you and let the omelette fall to the edge. Fold the side nearest to you over by a third with your fork, and keep it rolling over, so the omelette tips onto a plate – or fold it in half, if that’s easier. For a neat finish, cover the omelette with a piece of kitchen paper and plump it up a bit with your fingers. Rub the other knob of butter over to glaze. Serve immediately."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+            "ingredients": [
+                "Eggs",
+                "Butter",
+                "Parmesan",
+                "Tarragon",
+                "Parsley",
+                "Chives",
+                "Gruyère"
+            ],
+            "time": 65,
+            "servings": 6
+        },
+        {
+            "name": "Rocky Road Fudge",
+            "cuisine": "American",
+            "instructions": [
+                "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.\r\nPour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.\r\nIn a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nAdd the vanilla extract and stir well, until smooth.\r\nReserve 2 tablespoons of the chopped almonds or peanuts, and set aside.\r\nFold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.\r\nTransfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.\r\nRefrigerate for 4 hours, or until set.\r\nRemove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge.\r\nCut the fudge into bite-sized pieces and serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+            "ingredients": [
+                "Miniature Marshmallows",
+                "Chocolate Chips",
+                "Peanut Butter",
+                "Vanilla Extract",
+                "Peanuts"
+            ],
+            "time": 75,
+            "servings": 6
+        },
+        {
+            "name": "Lasagne",
+            "cuisine": "Italian",
+            "instructions": [
+                "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.\r\nAdd the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.\r\nStir in the tomato purée and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water to rinse out any tomatoes left in the can, and add to the pan. Add the honey and season to taste. Simmer for 20 mins.\r\nHeat oven to 200C/180C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the roasting tin or casserole dish, spreading the sauce all over the base. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit, then repeat with more sauce and another layer of pasta. Repeat with a further 2 layers of sauce and pasta, finishing with a layer of pasta.\r\nPut the crème fraîche in a bowl and mix with 2 tbsp water to loosen it and make a smooth pourable sauce. Pour this over the top of the pasta, then top with the mozzarella. Sprinkle Parmesan over the top and bake for 25–30 mins until golden and bubbling. Serve scattered with basil, if you like."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+            "ingredients": [
+                "Olive Oil",
+                "Bacon",
+                "Onion",
+                "Celery",
+                "Carrots",
+                "Garlic",
+                "Minced Beef",
+                "Tomato Puree",
+                "Chopped Tomatoes",
+                "Honey",
+                "Lasagne Sheets",
+                "Creme Fraiche",
+                "Mozzarella Balls",
+                "Parmesan Cheese",
+                "Basil Leaves"
+            ],
+            "time": 80,
+            "servings": 3
+        },
+        {
+            "name": "Chinon Apple Tarts",
+            "cuisine": "French",
+            "instructions": [
+                "To make the red wine jelly, put the red wine, jam sugar, star anise, clove, cinnamon stick, allspice, split vanilla pod and seeds in a medium saucepan. Stir together, then heat gently to dissolve the sugar. Turn up the heat and boil for 20 mins until reduced and syrupy. Strain into a small, sterilised jam jar and leave to cool completely. Will keep in the fridge for up to 1 month.\r\n\r\nTake the pastry out of the fridge and leave at room temperature for 10 mins, then unroll. Heat the grill to high and heat the oven to 180C/160C fan/gas 4. Cut out 2 x 13cm circles of pastry, using a plate as a guide, and place on a non-stick baking sheet. Sprinkle each circle with 1 tbsp sugar and grill for 5 mins to caramelise, watching carefully so that the sugar doesn’t burn. Remove from the grill. Can be done a few hours ahead, and left, covered, out of the fridge.\r\n\r\nPeel, quarter and core the apples, cut into 2mm-thin slices and arrange on top of the pastry. Sprinkle over the remaining sugar and pop in the oven for 20-25 mins until the pastry is cooked through and golden, and the apples are softened. Remove and allow to cool slightly. Warm 3 tbsp of the red wine jelly in a small pan over a low heat with 1 tsp water to make it a little more runny, then brush over the top of the tarts.\r\n\r\nTip the crème fraîche into a bowl, sift over the icing sugar and cardamom, and mix together. Carefully lift the warm tarts onto serving plates and serve with the cardamom crème fraîche."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
+            "ingredients": [
+                "Puff Pastry",
+                "Dark Brown Soft Sugar",
+                "Braeburn Apples",
+                "Red Wine Jelly",
+                "Creme Fraiche",
+                "Icing Sugar",
+                "Cardamom"
+            ],
+            "time": 100,
+            "servings": 9
+        },
+        {
+            "name": "Rigatoni with fennel sausage sauce",
+            "cuisine": "Moroccan",
+            "instructions": [
+                "Heat a tablespoon of oil in a large saute pan for which you have a lid. Add the sausage pieces and fry on a medium-high heat for 10 minutes, stirring regularly, until golden-brown all over. Transfer the sausages to a plate, then add the onion and fennel to the hot pan and fry for 15 minutes, stirring once in a while, until soft and caramelised; if the pan goes a bit dry, add a teaspoon or so of extra oil. Stir in the paprika, garlic and half the fennel seeds, fry for two minutes more, then pour on the wine and boil for 30 seconds, to reduce by half. Add the tomatoes, sugar, 100ml water, the seared sausage and half a teaspoon of salt, cover and simmer for 30 minutes; remove the lid after 10 minutes, and cook until the sauce is thick and rich. Remove from the heat, stir through the olives and remaining fennel seeds and set aside until you’re ready to serve.\r\n\r\nBring a large pot of salted water to a boil, add the pasta and cook for 12-14 minutes (or according to the instructions on the packet), until al dente. Meanwhile, reheat the sauce. Drain the pasta, return it to the pot, stir in a tablespoon of oil, then divide between the bowls. \r\n\r\nPut all the pesto ingredients except the basil in the small bowl of a food processor. Add a tablespoon of water and blitz to a rough paste. Add the basil, then blitz until just combined (the pesto has a much better texture if the basil is not overblended).\r\n\r\nSpoon over the ragù and top with a spoonful of pesto. Finish with a sprinkling of chopped fennel fronds, if you have any, and serve at once."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+            "ingredients": [
+                "olive oil",
+                "Italian fennel sausages",
+                "onion",
+                "fennel bulb",
+                "smoky paprika",
+                "garlic",
+                "fennel seeds",
+                "red wine",
+                "chopped tomatoes",
+                "caster sugar",
+                "pitted black olives",
+                "rigatoni",
+                "pecorino",
+                "anchovy fillet",
+                "garlic",
+                "olive oil",
+                "basil leaves"
+            ],
+            "time": 25,
+            "servings": 8
+        },
+        {
+            "name": "Grilled Portuguese sardines",
+            "cuisine": "Portuguese",
+            "instructions": [
+                "STEP 1\r\n\r\nPut all of the ingredients, except the sardines, into a bowl and mix together with some seasoning. Pour into a baking dish, add the sardines and toss really well. Cover and chill for a few hours.\r\n\r\nSTEP 2\r\n\r\nHeat a BBQ or griddle pan until hot. Cook the sardines for 4-5 minutes on each side or until really caramelised and charred. Put onto a serving plate, drizzle with oil, sprinkle with a little more paprika and squeeze over the lemon wedges."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+            "ingredients": [
+                "Sardines",
+                "Olive Oil",
+                "Garlic",
+                "Paprika",
+                "Lemon",
+                "Rosemary",
+                "Red Chilli"
+            ],
+            "time": 125,
+            "servings": 4
+        },
+        {
+            "name": "Fruit and Cream Cheese Breakfast Pastries",
+            "cuisine": "American",
+            "instructions": [
+                "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.\r\nNOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact.\r\nTake the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape.\r\nPlace 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.\r\nRepeat with the remaining pastry squares and place them onto the parchment covered baking sheet.\r\nBake for 15-20 minutes or until pastry is golden brown and puffed.\r\nEnjoy!\r\n"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+            "ingredients": [
+                "Cream Cheese",
+                "Sugar",
+                "Vanilla Extract",
+                "Flour",
+                "Puff Pastry",
+                "Strawberries",
+                "Raspberries",
+                "Blackberries"
+            ],
+            "time": 65,
+            "servings": 7
+        },
+        {
+            "name": "Apple Frangipan Tart",
+            "cuisine": "British",
+            "instructions": [
+                "Preheat the oven to 200C/180C Fan/Gas 6.\r\nPut the biscuits in a large re-sealable freezer bag and bash with a rolling pin into fine crumbs. Melt the butter in a small pan, then add the biscuit crumbs and stir until coated with butter. Tip into the tart tin and, using the back of a spoon, press over the base and sides of the tin to give an even layer. Chill in the fridge while you make the filling.\r\nCream together the butter and sugar until light and fluffy. You can do this in a food processor if you have one. Process for 2-3 minutes. Mix in the eggs, then add the ground almonds and almond extract and blend until well combined.\r\nPeel the apples, and cut thin slices of apple. Do this at the last minute to prevent the apple going brown. Arrange the slices over the biscuit base. Spread the frangipane filling evenly on top. Level the surface and sprinkle with the flaked almonds.\r\nBake for 20-25 minutes until golden-brown and set.\r\nRemove from the oven and leave to cool for 15 minutes. Remove the sides of the tin. An easy way to do this is to stand the tin on a can of beans and push down gently on the edges of the tin.\r\nTransfer the tart, with the tin base attached, to a serving plate. Serve warm with cream, crème fraiche or ice cream."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+            "ingredients": [
+                "digestive biscuits",
+                "butter",
+                "Bramley apples",
+                "butter, softened",
+                "caster sugar",
+                "free-range eggs, beaten",
+                "ground almonds",
+                "almond extract",
+                "flaked almonds"
+            ],
+            "time": 80,
+            "servings": 7
+        },
+        {
+            "name": "Nasi lemak",
+            "cuisine": "Malaysian",
+            "instructions": [
+                "In a medium saucepan over medium heat, stir together coconut milk, water, ground ginger, ginger root, salt, bay leaf, and rice. Cover, and bring to a boil. Reduce heat, and simmer for 20 to 30 minutes, or until done.\r\n\r\n Step 2\r\nPlace eggs in a saucepan, and cover with cold water. Bring water to a boil, and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool, peel and slice in half. Slice cucumber.\r\n\r\n Step 3\r\nMeanwhile, in a large skillet or wok, heat 1 cup vegetable oil over medium-high heat. Stir in peanuts and cook briefly, until lightly browned. Remove peanuts with a slotted spoon and place on paper towels to soak up excess grease. Return skillet to stove. Stir in the contents of one package anchovies; cook briefly, turning, until crisp. Remove with a slotted spoon and place on paper towels. Discard oil. Wipe out skillet.\r\n\r\n Step 4\r\nHeat 2 tablespoons oil in the skillet. Stir in the onion, garlic, and shallots; cook until fragrant, about 1 or 2 minutes. Mix in the chile paste, and cook for 10 minutes, stirring occasionally. If the chile paste is too dry, add a small amount of water. Stir in remaining anchovies; cook for 5 minutes. Stir in salt, sugar, and tamarind juice; simmer until sauce is thick, about 5 minutes.\r\n\r\n Step 5\r\nServe the onion and garlic sauce over the warm rice, and top with peanuts, fried anchovies, cucumbers, and eggs."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
+            "ingredients": [
+                "Coconut Milk",
+                "Water",
+                "Ginger Paste",
+                "Ginger",
+                "Bay Leaf",
+                "Rice",
+                "Eggs",
+                "Cucumber",
+                "Peanuts",
+                "Anchovy Fillet",
+                "Vegetable Oil",
+                "Onion",
+                "Garlic",
+                "Shallots",
+                "Chilli Powder",
+                "Anchovy Fillet",
+                "Sugar",
+                "Tamarind Paste"
+            ],
+            "time": 10,
+            "servings": 4
+        },
+        {
+            "name": "Chicken & mushroom Hotpot",
+            "cuisine": "British",
+            "instructions": [
+                "Heat oven to 200C/180C fan/gas 6. Put the butter in a medium-size saucepan and place over a medium heat. Add the onion and leave to cook for 5 mins, stirring occasionally. Add the mushrooms to the saucepan with the onions.\r\n\r\nOnce the onion and mushrooms are almost cooked, stir in the flour – this will make a thick paste called a roux. If you are using a stock cube, crumble the cube into the roux now and stir well. Put the roux over a low heat and stir continuously for 2 mins – this will cook the flour and stop the sauce from having a floury taste.\r\n\r\nTake the roux off the heat. Slowly add the fresh stock, if using, or pour in 500ml water if you’ve used a stock cube, stirring all the time. Once all the liquid has been added, season with pepper, a pinch of nutmeg and mustard powder. Put the saucepan back onto a medium heat and slowly bring it to the boil, stirring all the time. Once the sauce has thickened, place on a very low heat. Add the cooked chicken and vegetables to the sauce and stir well. Grease a medium-size ovenproof pie dish with a little butter and pour in the chicken and mushroom filling.\r\n\r\nCarefully lay the potatoes on top of the hot-pot filling, overlapping them slightly, almost like a pie top.\r\n\r\nBrush the potatoes with a little melted butter and cook in the oven for about 35 mins. The hot-pot is ready once the potatoes are cooked and golden brown."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+            "ingredients": [
+                "Butter",
+                "Onion",
+                "Mushrooms",
+                "Plain Flour",
+                "Chicken Stock Cube",
+                "Nutmeg",
+                "Mustard Powder",
+                "Chicken",
+                "Sweetcorn",
+                "Potatoes",
+                "Butter"
+            ],
+            "time": 30,
+            "servings": 2
+        },
+        {
+            "name": "Pierogi (Polish Dumplings)",
+            "cuisine": "Polish",
+            "instructions": [
+                "To prepare the sauerkraut filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Add the drained sauerkraut and cook for an additional 5 minutes. Season to taste with salt and pepper, then remove to a plate to cool.\r\n\r\nFor the mashed potato filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Stir into the mashed potatoes, and season with salt and white pepper.\r\n\r\nTo make the dough, beat together the eggs and sour cream until smooth. Sift together the flour, salt, and baking powder; stir into the sour cream mixture until dough comes together. Knead the dough on a lightly floured surface until firm and smooth. Divide the dough in half, then roll out one half to 1/8 inch thickness. Cut into 3 inch rounds using a biscuit cutter.\r\n\r\nPlace a small spoonful of the mashed potato filling into the center of each round. Moisten the edges with water, fold over, and press together with a fork to seal. Repeat procedure with the remaining dough and the sauerkraut filling.\r\n\r\nBring a large pot of lightly salted water to a boil. Add perogies and cook for 3 to 5 minutes or until pierogi float to the top. Remove with a slotted spoon."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg",
+            "ingredients": [
+                "Butter",
+                "Chopped Onion",
+                "Sauerkraut",
+                "Butter",
+                "Chopped Onion",
+                "Potatoes",
+                "Eggs",
+                "Sour Cream",
+                "Flour",
+                "Salt",
+                "Baking Powder"
+            ],
+            "time": 150,
+            "servings": 8
+        },
+        {
+            "name": "French Omelette",
+            "cuisine": "French",
+            "instructions": [
+                "Get everything ready. Warm a 20cm (measured across the top) non-stick frying pan on a medium heat. Crack the eggs into a bowl and beat them with a fork so they break up and mix, but not as completely as you would for scrambled egg. With the heat on medium-hot, drop one knob of butter into the pan. It should bubble and sizzle, but not brown. Season the eggs with the Parmesan and a little salt and pepper, and pour into the pan.\r\nLet the eggs bubble slightly for a couple of seconds, then take a wooden fork or spatula and gently draw the mixture in from the sides of the pan a few times, so it gathers in folds in the centre. Leave for a few seconds, then stir again to lightly combine uncooked egg with cooked. Leave briefly again, and when partly cooked, stir a bit faster, stopping while there’s some barely cooked egg left. With the pan flat on the heat, shake it back and forth a few times to settle the mixture. It should slide easily in the pan and look soft and moist on top. A quick burst of heat will brown the underside.\r\nGrip the handle underneath. Tilt the pan down away from you and let the omelette fall to the edge. Fold the side nearest to you over by a third with your fork, and keep it rolling over, so the omelette tips onto a plate – or fold it in half, if that’s easier. For a neat finish, cover the omelette with a piece of kitchen paper and plump it up a bit with your fingers. Rub the other knob of butter over to glaze. Serve immediately."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+            "ingredients": [
+                "Eggs",
+                "Butter",
+                "Parmesan",
+                "Tarragon",
+                "Parsley",
+                "Chives",
+                "Gruyère"
+            ],
+            "time": 90,
+            "servings": 3
+        },
+        {
+            "name": "Chocolate Gateau",
+            "cuisine": "French",
+            "instructions": [
+                "Preheat the oven to 180°C/350°F/Gas Mark 4. Grease and line the base of an 8 in round spring form cake tin with baking parchment\r\nBreak the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts. (or melt in the microwave for 2-3 mins stirring occasionally)\r\nPlace the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy. Gradually beat in the eggs, adding a little flour if the mixture begins to curdle. Fold in the remaining flour with the cooled, melted chocolate and milk. Mix until smooth.\r\nSpread the mixture into the cake tin and bake for 50-55 mins or until firm in the centre and a skewer comes out cleanly. Cool for 10 minutes, then turn out and cool completely."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+            "ingredients": [
+                "Plain chocolate",
+                "Butter",
+                "Milk",
+                "Eggs",
+                "Granulated Sugar",
+                "Flour"
+            ],
+            "time": 130,
+            "servings": 3
+        },
+        {
+            "name": "Baingan Bharta",
+            "cuisine": "Indian",
+            "instructions": [
+                "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and\r\nkeep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get\r\nthe smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly\r\ncooked. You could also embed some garlic cloves in the baingan and then roast it.\r\n2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid\r\neasily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools\r\ndown.\r\n3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step.\r\nUse natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red.\r\n4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted\r\naubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke.\r\n5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the\r\ncharcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will\r\nbecome. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is\r\ncooked, just like the way we do for Dal Tadka.\r\n6. Peel the skin from the roasted and smoked eggplant.\r\n7. Chop the cooked eggplant finely or you can even mash it.\r\n8. In a kadai or pan, heat oil. Then add finely chopped onions and garlic.\r\n9. Saute the onions till translucent. Don't brown them.\r\n10. Add chopped green chilies and saute for a minute.\r\n11. Add the chopped tomatoes and mix it well.\r\n12. Bhuno (saute) the tomatoes till the oil starts separating from the mixture.\r\n13. Now add the red chili powder. Stir and mix well.\r\n14. Add the chopped cooked baingan.\r\n15. Stir and mix the chopped baingan very well with the onion­tomato masala mixture.\r\n16. Season with salt. Stir and saute for some more 4 to 5 minutes more.\r\n17. Finally stir in the coriander leaves with the baingan bharta or garnish it with them. Serve Baingan Bharta with\r\nphulkas, rotis or chapatis. It goes well even with bread, toasted or grilled bread and plain rice or jeera rice."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+            "ingredients": [
+                "Aubergine",
+                "Onion",
+                "Tomatoes",
+                "Garlic",
+                "Green Chili",
+                "Red Chili Powder",
+                "Oil",
+                "Coriander Leaves",
+                "salt"
+            ],
+            "time": 140,
+            "servings": 8
+        },
+        {
+            "name": "Chicken Couscous",
+            "cuisine": "Moroccan",
+            "instructions": [
+                "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.\r\n\r\nTip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+            "ingredients": [
+                "Olive Oil",
+                "Onion",
+                "Chicken Breast",
+                "Ginger",
+                "Harissa Spice",
+                "Dried Apricots",
+                "Chickpeas",
+                "Couscous",
+                "Chicken Stock",
+                "Coriander"
+            ],
+            "time": 35,
+            "servings": 4
+        },
+        {
+            "name": "Laksa King Prawn Noodles",
+            "cuisine": "Malaysian",
+            "instructions": [
+                "Heat the oil in a medium saucepan and add the chilli. Cook for 1 min, then add the curry paste, stir and cook for 1 min more. Dissolve the stock cube in a large jug in 700ml boiling water, then pour into the pan and stir to combine. Tip in the coconut milk and bring to the boil.\r\nAdd the fish sauce and a little seasoning. Toss in the noodles and cook for a further 3-4 mins until softening. Squeeze in the lime juice, add the prawns and cook through until warm, about 2-3 mins. Scatter over some of the coriander.\r\nServe in bowls with the remaining coriander and lime wedges on top for squeezing over."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+            "ingredients": [
+                "Olive Oil",
+                "red chili",
+                "Thai red curry paste",
+                "vegetable stock cube",
+                "coconut milk",
+                "fish sauce",
+                "rice noodles",
+                "lime",
+                "king prawns",
+                "coriander"
+            ],
+            "time": 40,
+            "servings": 7
+        },
+        {
+            "name": "Pad See Ew",
+            "cuisine": "Thai",
+            "instructions": [
+                "Mix Sauce in small bowl.\r\nMince garlic into wok with oil. Place over high heat, when hot, add chicken and Chinese broccoli stems, cook until chicken is light golden.\r\nPush to the side of the wok, crack egg in and scramble. Don't worry if it sticks to the bottom of the wok - it will char and which adds authentic flavour.\r\nAdd noodles, Chinese broccoli leaves and sauce. Gently mix together until the noodles are stained dark and leaves are wilted. Serve immediately!"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "ingredients": [
+                "rice stick noodles",
+                "dark soy sauce",
+                "oyster sauce",
+                "soy sauce",
+                "white vinegar",
+                "sugar",
+                "water",
+                "peanut oil",
+                "garlic",
+                "Chicken",
+                "Egg",
+                "Chinese broccoli"
+            ],
+            "time": 30,
+            "servings": 4
+        },
+        {
+            "name": "Crispy Sausages and Greens",
+            "cuisine": "Irish",
+            "instructions": [
+                "Preheat the oven to 350°. Remove the stems from one bunch of Tuscan kale and tear the leaves into 1\" pieces (mustard greens, collards, spinach, and chard are great, too). Coarsely chop half a head of green cabbage. Combine the greens in a large baking dish and add 4 cloves of thinly sliced garlic. Adding some sliced onions and shiitake mushrooms at this point is optional, but highly recommended (I'll sauté the onions and mushrooms in a cast iron baking dish right on the stove before adding to the greens). Coat the greens with some olive oil and pour ½ cup chicken stock or broth over everything. Cover the dish with foil and bake until the greens are wilted, about 15 minutes. Remove foil and season with salt and pepper. Continue to bake until cabbage is tender, about 20-25 minutes more.\r\n\r\nMeanwhile, heat a little olive oil in a large skillet over medium-high. Prick four sweet Italian sausages with a fork and cook until browned on all sides and cooked through, 10 to 12 minutes. When the greens are done, slice the sausage and toss into the greens with a splash of your favorite vinegar (I like sherry or red wine)."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
+            "ingredients": [
+                "Kale",
+                "Italian Fennel Sausages",
+                "Cabbage",
+                "Garlic Clove",
+                "Onion",
+                "Shiitake Mushrooms",
+                "Chicken Stock",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 60,
+            "servings": 3
+        },
+        {
+            "name": "Nanaimo Bars",
+            "cuisine": "Canadian",
+            "instructions": [
+                "Start by making the biscuit base. In a bowl, over a pan of simmering water, melt the butter with the sugar and cocoa powder, stirring occasionally until smooth. Whisk in the egg for 2 to 3 mins until the mixture has thickened. Remove from heat and mix in the biscuit crumbs, coconut and almonds if using, then press into the base of a lined 20cm square tin. Chill for 10 mins.\r\nFor the middle layer, make the custard icing; whisk together the butter, cream and custard powder until light and fluffy, then gradually add the icing sugar until fully incorporated. Spread over the bottom layer and chill in the fridge for at least 10 mins until the custard is no longer soft.\r\nMelt the chocolate and butter together in the microwave, then spread over the chilled bars and put back in the fridge. Leave until the chocolate has fully set (about 2 hrs). Take the mixture out of the tin and slice into squares to serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg",
+            "ingredients": [
+                "Custard",
+                "Caster Sugar",
+                "Cocoa",
+                "Egg",
+                "Digestive Biscuits",
+                "Desiccated Coconut",
+                "Almonds",
+                "Butter",
+                "Double Cream",
+                "Custard Powder",
+                "Icing Sugar",
+                "Dark Chocolate",
+                "Butter"
+            ],
+            "time": 150,
+            "servings": 2
+        },
+        {
+            "name": "Rocky Road Fudge",
+            "cuisine": "American",
+            "instructions": [
+                "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.\r\nPour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.\r\nIn a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nAdd the vanilla extract and stir well, until smooth.\r\nReserve 2 tablespoons of the chopped almonds or peanuts, and set aside.\r\nFold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.\r\nTransfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.\r\nRefrigerate for 4 hours, or until set.\r\nRemove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge.\r\nCut the fudge into bite-sized pieces and serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+            "ingredients": [
+                "Miniature Marshmallows",
+                "Chocolate Chips",
+                "Peanut Butter",
+                "Vanilla Extract",
+                "Peanuts"
+            ],
+            "time": 10,
+            "servings": 10
+        },
+        {
+            "name": "Summer Pistou",
+            "cuisine": "French",
+            "instructions": [
+                "Heat the oil in a large pan and fry the leeks and courgette for 5 mins to soften. Pour in the stock, add three-quarters of the haricot beans with the green beans, half the tomatoes, and simmer for 5-8 mins until the vegetables are tender.\r\nMeanwhile, blitz the remaining beans and tomatoes, the garlic and basil in a food processor (or in a bowl with a stick blender) until smooth, then stir in the Parmesan. Stir the sauce into the soup, cook for 1 min, then ladle half into bowls or pour into a flask for a packed lunch. Chill the remainder. Will keep for a couple of days."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg",
+            "ingredients": [
+                "Rapeseed Oil",
+                "Leek",
+                "Courgettes",
+                "Vegetable Stock",
+                "Cannellini Beans",
+                "Green Beans",
+                "Tomatoes",
+                "Garlic Clove",
+                "Basil",
+                "Parmesan"
+            ],
+            "time": 115,
+            "servings": 9
+        },
+        {
+            "name": "Oxtail with broad beans",
+            "cuisine": "Jamaican",
+            "instructions": [
+                "Toss the oxtail with the onion, spring onion, garlic, ginger, chilli, soy sauce, thyme, salt and pepper. Heat the vegetable oil in a large frying pan over medium-high heat. Brown the oxtail in the pan until browned all over, about 10 minutes. Place into a pressure cooker, and pour in 375ml water. Cook at pressure for 25 minutes, then remove from heat, and remove the lid according to manufacturer's directions.\r\nAdd the broad beans and pimento berries, and bring to a simmer over medium-high heat. Dissolve the cornflour in 2 tablespoons water, and stir into the simmering oxtail. Cook and stir a few minutes until the sauce has thickened, and the broad beans are tender."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/1520083578.jpg",
+            "ingredients": [
+                "Oxtail",
+                "Onion",
+                "Spring Onions",
+                "Garlic",
+                "Ginger",
+                "Scotch Bonnet",
+                "Soy Sauce",
+                "Fresh Thyme",
+                "Vegetable Oil",
+                "Water",
+                "Broad Beans",
+                "Corn Flour",
+                "Water"
+            ],
+            "time": 90,
+            "servings": 6
+        },
+        {
+            "name": "Portuguese barbecued pork (Febras assadas)",
+            "cuisine": "Portuguese",
+            "instructions": [
+                "STEP 1\r\n\r\nCut the tenderloins into 5 equal-size pieces leaving the tail ends a little longer. Take a clear plastic bag and slip one of the pieces in. Bash it into an escalope the size of a side-plate with a rolling pin and repeat with the remaining pieces.\r\n\r\nSTEP 2\r\n\r\nPut the wine, paprika, some salt and pepper and the juice of ½ a lemon in a bowl and add the pork. Leave to marinate for 20-30 minutes, while you get your barbecue to the stage where the coals are glowing but there are no flames.\r\n\r\nSTEP 3\r\n\r\nTo make the chips, fill a basin with cool water and cut the potatoes into 3cm-thick chips. Soak them in the water for 5 minutes and then change the water. Leave for 5 more minutes. Drain and then pat dry on a towel or with kitchen paper.\r\n\r\nSTEP 4\r\n\r\nHeat the oil in a deep fryer or a deep heavy-based pan with a lid to 130C and lower the chips into the oil (in batches). Blanch for 8-10 minutes. Remove from the oil and drain well. Place on a tray to cool. Reheat the oil to 180C (make sure it’s hot or your chips will be soggy) and lower the basket of chips into the oil (again, do this in batches). Leave to cook for 2 minutes and then give them a little shake. Cook for another minute or so until they are well coloured and crisp to the touch. Drain well for a few minutes, tip into a bowl and sprinkle with sea salt.\r\n\r\nSTEP 5\r\n\r\nThe pork will cook quickly so do it in 2 batches. Take the pieces out of the marinade, rub them with oil, and drop them onto the barbecue (you could also use a chargrill). Cook for 1 minute on each side – they may flare up as you do so. This should really be enough time as they will keep on cooking. Take them off the barbecue and pile onto a plate. Repeat with the remaining batch.\r\n\r\nSTEP 6\r\n\r\nServe by piling a plate with chips, drop the pork on top of each pile and pouring the juices from the plate over so the chips take up the flavours. Top with a spoon of mayonnaise and a wedge of lemon."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg",
+            "ingredients": [
+                "Pork",
+                "White Wine",
+                "Paprika",
+                "Lemon",
+                "Lemon Juice",
+                "Olive Oil",
+                "Mayonnaise",
+                "Potatoes",
+                "Vegetable Oil"
+            ],
+            "time": 95,
+            "servings": 6
+        },
+        {
+            "name": "General Tso's Chicken",
+            "cuisine": "Chinese",
+            "instructions": [
+                "DIRECTIONS:\r\nSTEP 1 - SAUCE\r\nIn a bowl, add 2 Cups of water, 2 Tablespoon soy sauce, 2 Tablespoon white vinegar, sherry cooking wine, 1/4 Teaspoon white pepper, minced ginger, minced garlic, hot pepper, ketchup, hoisin sauce, and sugar.\r\nMix together well and set aside.\r\nSTEP 2 - MARINATING THE CHICKEN\r\nIn a bowl, add the chicken, 1 pinch of salt, 1 pinch of white pepper, 2 egg whites, and 3 Tablespoon of corn starch\r\nSTEP 3 - DEEP FRY THE CHICKEN\r\nDeep fry the chicken at 350 degrees for 3-4 minutes or until it is golden brown and loosen up the chicken so that they don't stick together.\r\nSet the chicken aside.\r\nSTEP 4 - STIR FRY\r\nAdd the sauce to the wok and then the broccoli and wait until it is boiling.\r\nTo thicken the sauce, whisk together 2 Tablespoon of cornstarch and 4 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.\r\nNext add in the chicken and stir-fry for a minute and serve on a plate"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+            "ingredients": [
+                "Chicken Breast",
+                "Plain Flour",
+                "Egg",
+                "Starch",
+                "Baking Powder",
+                "Salt",
+                "Onion Salt",
+                "Garlic Powder",
+                "Water",
+                "Chicken Stock",
+                "Duck Sauce",
+                "Soy Sauce",
+                "Honey",
+                "Rice Vinegar",
+                "Sesame Seed Oil",
+                "Gochujang",
+                "Starch",
+                "Garlic",
+                "Spring Onions",
+                "Ginger"
+            ],
+            "time": 60,
+            "servings": 4
+        },
+        {
+            "name": "Montreal Smoked Meat",
+            "cuisine": "Canadian",
+            "instructions": [
+                "To make the cure, in a small bowl mix together salt, pink salt, black pepper, coriander, sugar, bay leaf, and cloves. Coat entire brisket with the cure and place in an extra-large resealable plastic bag. Place in the coldest part of the refrigerator and cure for 4 days, flipping brisket twice a day.\r\nRemove brisket from bag and wash as much cure off as possible under cold running water. Place brisket in a large container and fill with water and let soak for 2 hours, replacing water every 30 minutes. Remove from water and pat dry with paper towels.\r\nTo make the rub, mix together black pepper, coriander, paprika, garlic powder, onion powder, dill weed, mustard, celery seed, and crushed red papper in a small bowl. Coat entire brisket with the rub.\r\nFire up smoker or grill to 225 degrees, adding chunks of smoking wood chunks when at temperature. When wood is ignited and producing smoke, place brisket in, fat side up, and smoke until an instant read thermometer registers 165 degrees when inserted into thickest part of the brisket, about 6 hours.\r\nTransfer brisket to large roasting pan with V-rack. Place roasting pan over two burners on stovetop and fill with 1-inch of water. Bring water to a boil over high heat, reduce heat to medium, cover roasting pan with aluminum foil, and steam brisket until an instant read thermometer registers 180 degrees when inserted into thickest part of the meat, 1 to 2 hours, adding more hot water as needed.\r\nTransfer brisket to cutting board and let cool slightly. Slice and serve, preferably on rye with mustard."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg",
+            "ingredients": [
+                "Beef Brisket",
+                "Salt",
+                "Black Pepper",
+                "Coriander",
+                "Sugar",
+                "Bay Leaf",
+                "Cloves",
+                "Black Pepper",
+                "Coriander",
+                "Paprika",
+                "Garlic",
+                "Onion",
+                "Dill",
+                "English Mustard",
+                "Celery Salt",
+                "Red Pepper Flakes"
+            ],
+            "time": 85,
+            "servings": 9
+        },
+        {
+            "name": "BBQ Pork Sloppy Joes",
+            "cuisine": "American",
+            "instructions": [
+                "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+            "ingredients": [
+                "Potatoes",
+                "Red Onions",
+                "Garlic",
+                "Lime",
+                "Bread",
+                "Pork",
+                "Barbeque Sauce",
+                "Hotsauce",
+                "Tomato Ketchup",
+                "Sugar",
+                "Vegetable Oil",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 15,
+            "servings": 5
+        },
+        {
+            "name": "Cajun spiced fish tacos",
+            "cuisine": "Mexican",
+            "instructions": [
+                "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.\r\n\r\nOn a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.\r\n\r\nHeat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.\r\n\r\nMeanwhile, prepare the dressing by combining all the ingredients with a little seasoning.\r\nSoften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "ingredients": [
+                "cajun",
+                "cayenne pepper",
+                "white fish",
+                "vegetable oil",
+                "flour tortilla",
+                "avocado",
+                "little gem lettuce",
+                "spring onion",
+                "salsa",
+                "sour cream",
+                "lemon",
+                "garlic"
+            ],
+            "time": 75,
+            "servings": 9
+        },
+        {
+            "name": "Escovitch Fish",
+            "cuisine": "Jamaican",
+            "instructions": [
+                "Rinse fish; rub with lemon or lime, seasoned with salt and pepper or use your favorite seasoning. I used creole seasoning. Set aside or place in the oven to keep it warm until sauce is ready.\r\n\r\nIn large skillet heat oil over medium heat, until hot, add the fish, cook each side- for about 5-7 minutes until cooked through and crispy on both sides. Remove fish and set aside. Drain oil and leave about 2-3 tablespoons of oil\r\nAdd, bay leave, garlic and ginger, stir-fry for about a minute making sure the garlic does not burn\r\nThen add onion, bell peppers, thyme, scotch bonnet, sugar, all spice-continue stirring for about 2-3 minutes. Add vinegar, mix an adjust salt and pepper according to preference. Let it simmer for about 2 more minutes. \r\n\r\nDiscard bay leave, thyme spring and serve over fish with a side of this bammy. You may make the sauce about 2 days in advance."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "ingredients": [
+                "Red Snapper",
+                "Vegetable Oil",
+                "Garlic",
+                "Ginger",
+                "Thyme",
+                "Bay Leaf",
+                "Red Pepper",
+                "Yellow Pepper",
+                "Onion",
+                "Carrots",
+                "Sugar",
+                "Allspice",
+                "Worcestershire Sauce",
+                "Scotch Bonnet",
+                "Lime",
+                "Malt Vinegar",
+                "Pepper"
+            ],
+            "time": 90,
+            "servings": 6
+        },
+        {
+            "name": "Braised Beef Chilli",
+            "cuisine": "Mexican",
+            "instructions": [
+                "Preheat the oven to 120C/225F/gas mark 1.\r\n\r\nTake the meat out of the fridge to de-chill. Pulse the onions and garlic in a food processor until finely chopped. Heat 2 tbsp olive oil in a large casserole and sear the meat on all sides until golden.\r\n\r\nSet to one side and add another small slug of oil to brown the chorizo. Remove and add the onion and garlic, spices, herbs and chillies then cook until soft in the chorizo oil. Season with salt and pepper and add the vinegar, tomatoes, ketchup and sugar.\r\n\r\nPut all the meat back into the pot with 400ml water (or red wine if you prefer), bring up to a simmer and cook, covered, in the low oven.\r\n\r\nAfter 2 hours, check the meat and add the beans. Cook for a further hour and just before serving, pull the meat apart with a pair of forks."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+            "ingredients": [
+                "Beef",
+                "Onions",
+                "Garlic",
+                "Olive oil",
+                "Chorizo",
+                "Cumin",
+                "All spice",
+                "Cloves",
+                "Cinnamon stick",
+                "Bay Leaves",
+                "Oregano",
+                "Ancho Chillies",
+                "Balsamic Vinegar",
+                "Plum Tomatoes",
+                "Tomato Ketchup",
+                "Dark Brown Sugar",
+                "Borlotti Beans"
+            ],
+            "time": 25,
+            "servings": 3
+        },
+        {
+            "name": "Roti john",
+            "cuisine": "Malaysian",
+            "instructions": [
+                "Mix all the ingredients in a bowl.\r\nHeat a pan or griddle with a little vegetable oil.\r\nPour the mixture onto the pan and place a piece of open-faced baguette on top.\r\nPress on the bread with a spatula and grill for 2 minutes.\r\nTurn the bread over to make it a little crispy.\r\nRemove from pan and cut the bread into small portions.\r\nAdd mayonnaise and/or Sambal before cutting the sandwich (optional)."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
+            "ingredients": [
+                "Minced Beef",
+                "Onion",
+                "Eggs",
+                "Chilli",
+                "Baguette",
+                "Salt",
+                "Pepper",
+                "Mayonnaise"
+            ],
+            "time": 25,
+            "servings": 4
+        },
+        {
+            "name": "Cevapi Sausages",
+            "cuisine": "Croatian",
+            "instructions": [
+                "Place the ground meat in a bowl. Chop the onion very finely and grate the garlic cloves. Add to the bowl. Add the chopped parsley, all sorts of paprika, baking soda, dried breadcrumbs, water, Vegeta, salt, and pepper.\r\nMix well with the hand mixer fitted with the dough hooks. Cover the bowl with cling film/ plastic foil and leave to rest for 1 or 2 hours in the refrigerator.\r\nTake portions of the meat mixture, about 50-55 g/ 1.7-1.9 oz/ ¼ cup portions, and form the cevapi. The rolls should be about as thick as your thumb and about 7-10 cm/ 3-4 inches long. I had 18 sausages. The recipe can be easily doubled.\r\nGrill the cevapcici on the hot grill pan or on the barbecue for about 12-14 minutes, turning them several times in between, or until brown and cooked through. I checked by cutting one in the middle and then grilling the following batches for the same period of time.\r\nServe hot as suggested above. The cevapcici can be reheated in the oven at 180 degrees Celsius/ 350 degrees Fahrenheit for about 10 minutes or until heated through. Check one, if it is not hot enough, give the sausages a few more minutes."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg",
+            "ingredients": [
+                "Minced Beef",
+                "Minced Pork",
+                "Onion",
+                "Garlic",
+                "Parsley",
+                "Paprika",
+                "Baking Powder",
+                "Breadcrumbs",
+                "Water",
+                "Vegetable Stock Cube",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 10,
+            "servings": 7
+        },
+        {
+            "name": "Fresh sardines",
+            "cuisine": "Croatian",
+            "instructions": [
+                "Wash the fish under the cold tap. Roll in the flour and deep fry in oil until crispy. Lay on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg",
+            "ingredients": [
+                "Sardines",
+                "Vegetable Oil",
+                "Flour",
+                "Salt"
+            ],
+            "time": 25,
+            "servings": 5
+        },
+        {
+            "name": "Broccoli & Stilton soup",
+            "cuisine": "British",
+            "instructions": [
+                "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch.\r\n\r\nAdd the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid.\r\n\r\nPour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft.\r\n\r\nAdd the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+            "ingredients": [
+                "Rapeseed Oil",
+                "Onion",
+                "Celery",
+                "Leek",
+                "Potatoes",
+                "Butter",
+                "Vegetable Stock",
+                "Broccoli",
+                "Stilton Cheese"
+            ],
+            "time": 85,
+            "servings": 9
+        },
+        {
+            "name": "Chicken Karaage",
+            "cuisine": "Japanese",
+            "instructions": [
+                "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour.\r\n\r\nAdd 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl\r\n\r\nAdd a handful of chicken to the potato starch and toss to coat each piece evenly.\r\n\r\nFry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+            "ingredients": [
+                "Chicken thigh",
+                "Ginger",
+                "Garlic",
+                "Soy sauce",
+                "Sake",
+                "Granulated sugar",
+                "Potato starch",
+                "Vegetable oil",
+                "Lemon"
+            ],
+            "time": 140,
+            "servings": 2
+        },
+        {
+            "name": "Nasi lemak",
+            "cuisine": "Malaysian",
+            "instructions": [
+                "In a medium saucepan over medium heat, stir together coconut milk, water, ground ginger, ginger root, salt, bay leaf, and rice. Cover, and bring to a boil. Reduce heat, and simmer for 20 to 30 minutes, or until done.\r\n\r\n Step 2\r\nPlace eggs in a saucepan, and cover with cold water. Bring water to a boil, and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool, peel and slice in half. Slice cucumber.\r\n\r\n Step 3\r\nMeanwhile, in a large skillet or wok, heat 1 cup vegetable oil over medium-high heat. Stir in peanuts and cook briefly, until lightly browned. Remove peanuts with a slotted spoon and place on paper towels to soak up excess grease. Return skillet to stove. Stir in the contents of one package anchovies; cook briefly, turning, until crisp. Remove with a slotted spoon and place on paper towels. Discard oil. Wipe out skillet.\r\n\r\n Step 4\r\nHeat 2 tablespoons oil in the skillet. Stir in the onion, garlic, and shallots; cook until fragrant, about 1 or 2 minutes. Mix in the chile paste, and cook for 10 minutes, stirring occasionally. If the chile paste is too dry, add a small amount of water. Stir in remaining anchovies; cook for 5 minutes. Stir in salt, sugar, and tamarind juice; simmer until sauce is thick, about 5 minutes.\r\n\r\n Step 5\r\nServe the onion and garlic sauce over the warm rice, and top with peanuts, fried anchovies, cucumbers, and eggs."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
+            "ingredients": [
+                "Coconut Milk",
+                "Water",
+                "Ginger Paste",
+                "Ginger",
+                "Bay Leaf",
+                "Rice",
+                "Eggs",
+                "Cucumber",
+                "Peanuts",
+                "Anchovy Fillet",
+                "Vegetable Oil",
+                "Onion",
+                "Garlic",
+                "Shallots",
+                "Chilli Powder",
+                "Anchovy Fillet",
+                "Sugar",
+                "Tamarind Paste"
+            ],
+            "time": 55,
+            "servings": 8
+        },
+        {
+            "name": "Salmon Prawn Risotto",
+            "cuisine": "Italian",
+            "instructions": [
+                "Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft.\r\nAdd the rice and stir to coat all the grains in the butter\r\nAdd the wine and cook gently stirring until it is absorbed\r\nGradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender\r\nSeason with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through\r\nServe scattered with the Parmesan and seasonal vegetables.\r\nGrill the salmon and gently place onto the risotto with the prawns and asparagus"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+            "ingredients": [
+                "butter",
+                "onion",
+                "rice",
+                "white wine",
+                "vegetable stock",
+                "lemon",
+                "King Prawns",
+                "salmon",
+                "asparagus",
+                "black pepper",
+                "Parmesan"
+            ],
+            "time": 135,
+            "servings": 2
+        },
+        {
+            "name": "Ma Po Tofu",
+            "cuisine": "Chinese",
+            "instructions": [
+                "Add a small pinch of salt and sesame oil to minced beef. Mix well and set aside.\r\nMix 1 tablespoon of cornstarch with 2 and ½ tablespoons of water in a small bowl to make water starch.\r\nCut tofu into square cubes (around 2cms). Bring a large amount of water to a boil and then add a pinch of salt. Slide the tofu in and cook for 1 minute. Move out and drain.\r\nGet a wok and heat up around 2 tablespoons of oil, fry the minced meat until crispy. Transfer out beef out and leave the oil in.\r\nFry doubanjiang for 1 minute over slow fire and then add garlic, scallion white, ginger and fermented black beans to cook for 30 seconds until aroma. Then mix pepper flakes in.\r\nAdd water to the seasonings and bring to boil over high fire. Gently slide the tofu cubes. Add light soy sauce and beef.Slow the heat after boiling and then simmer for 6-8 minutes. Then add chopped garlic greens.\r\nStir the water starch and then pour half of the mixture to the simmering pot. Wait for around 30 seconds and then pour the other half. You can slightly taste the tofu and add pinch of salt if not salty enough. By the way, if you feel it is too spicy, add some sugar can milder the taste. But be carefully as the broth is very hot at this point.\r\nTransfer out when almost all the seasonings stick to tofu cubes. Sprinkle Szechuan peppercorn powder (to taste)and chopped garlic greens if using.\r\nServe immediately with steamed rice."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+            "ingredients": [
+                "Tofu",
+                "Minced Beef",
+                "Sesame Seed Oil",
+                "Doubanjiang",
+                "Fermented Black Beans",
+                "Pepper",
+                "Salt",
+                "Sichuan pepper",
+                "Soy Sauce",
+                "Water",
+                "Olive Oil",
+                "Scallions",
+                "Spring Onions",
+                "Garlic",
+                "Ginger",
+                "Water",
+                "Cornstarch"
+            ],
+            "time": 5,
+            "servings": 4
+        },
+        {
+            "name": "Chocolate Avocado Mousse",
+            "cuisine": "British",
+            "instructions": [
+                "1. Blend all the mousse ingredients together in your food processor until smooth. Add the cacao powder first and, as you blend, have all the ingredients to hand in order to adjust the ratios slightly as the size of avocados and bananas varies so much. The perfect ratio in order to avoid the dish tasting too much of either is to use equal amounts of both.\r\n\r\n2. Taste and add a few drops of stevia if you feel you need more sweetness.\r\n\r\n3. Fill little cups or shot glasses with the mousse, sprinkle with the cacao powder or nibs and serve.\r\n\r\nTip If you don’t have a frozen banana to hand you can just use a normal one and then chill the mousse before serving for a cooling dessert."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg",
+            "ingredients": [
+                "Banana",
+                "Cacao",
+                "Avocado",
+                "Honey",
+                "Lemon Juice",
+                "Vanilla",
+                "Water",
+                "Sea Salt"
+            ],
+            "time": 50,
+            "servings": 5
+        },
+        {
+            "name": "Tonkatsu pork",
+            "cuisine": "Japanese",
+            "instructions": [
+                "STEP 1\r\nRemove the large piece of fat on the edge of each pork loin, then bash each of the loins between two pieces of baking parchment until around 1cm in thickness – you can do this using a meat tenderiser or a rolling pin. Once bashed, use your hands to reshape the meat to its original shape and thickness – this step will ensure the meat is as succulent as possible.\r\n\r\nSTEP 2\r\nPut the flour, eggs and panko breadcrumbs into three separate wide-rimmed bowls. Season the meat, then dip first in the flour, followed by the eggs, then the breadcrumbs.\r\n\r\nSTEP 3\r\nIn a large frying or sauté pan, add enough oil to come 2cm up the side of the pan. Heat the oil to 180C – if you don’t have a thermometer, drop a bit of panko into the oil and if it sinks a little then starts to fry, the oil is ready. Add two pork chops and cook for 1 min 30 secs on each side, then remove and leave to rest on a wire rack for 5 mins. Repeat with the remaining pork chops.\r\n\r\nSTEP 4\r\nWhile the pork is resting, make the sauce by whisking the ingredients together, adding a splash of water if it’s particularly thick. Slice the tonkatsu and serve drizzled with the sauce."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
+            "ingredients": [
+                "Pork Chops",
+                "Flour",
+                "Eggs",
+                "Breadcrumbs",
+                "Vegetable Oil",
+                "Tomato Ketchup",
+                "Worcestershire Sauce",
+                "Oyster Sauce",
+                "Caster Sugar"
+            ],
+            "time": 50,
+            "servings": 3
+        },
+        {
+            "name": "Battenberg Cake",
+            "cuisine": "British",
+            "instructions": [
+                "Heat oven to 180C/160C fan/gas 4 and line the base and sides of a 20cm square tin with baking parchment (the easiest way is to cross 2 x 20cm-long strips over the base). To make the almond sponge, put the butter, sugar, flour, ground almonds, baking powder, eggs, vanilla and almond extract in a large bowl. Beat with an electric whisk until the mix comes together smoothly. Scrape into the tin, spreading to the corners, and bake for 25-30 mins – when you poke in a skewer, it should come out clean. Cool in the tin for 10 mins, then transfer to a wire rack to finish cooling while you make the second sponge.\r\nFor the pink sponge, line the tin as above. Mix all the ingredients together as above, but don’t add the almond extract. Fold in some pink food colouring. Then scrape it all into the tin and bake as before. Cool.\r\nTo assemble, heat the jam in a small pan until runny, then sieve. Barely trim two opposite edges from the almond sponge, then well trim a third edge. Roughly measure the height of the sponge, then cutting from the well-trimmed edge, use a ruler to help you cut 4 slices each the same width as the sponge height. Discard or nibble leftover sponge. Repeat with pink cake.\r\nTake 2 x almond slices and 2 x pink slices and trim so they are all the same length. Roll out one marzipan block on a surface lightly dusted with icing sugar to just over 20cm wide, then keep rolling lengthways until the marzipan is roughly 0.5cm thick. Brush with apricot jam, then lay a pink and an almond slice side by side at one end of the marzipan, brushing jam in between to stick sponges, and leaving 4cm clear marzipan at the end. Brush more jam on top of the sponges, then sandwich remaining 2 slices on top, alternating colours to give a checkerboard effect. Trim the marzipan to the length of the cakes.\r\nCarefully lift up the marzipan and smooth over the cake with your hands, but leave a small marzipan fold along the bottom edge before you stick it to the first side. Trim opposite side to match size of fold, then crimp edges using fingers and thumb (or, more simply, press with prongs of fork). If you like, mark the 10 slices using the prongs of a fork.\r\nAssemble second Battenberg and keep in an airtight box or well wrapped in cling film for up to 3 days. Can be frozen for up to a month."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg",
+            "ingredients": [
+                "Butter",
+                "Caster Sugar",
+                "Self-raising Flour",
+                "Almonds",
+                "Baking Powder",
+                "Eggs",
+                "Vanilla Extract",
+                "Almond Extract",
+                "Butter",
+                "Caster Sugar",
+                "Self-raising Flour",
+                "Almonds",
+                "Baking Powder",
+                "Eggs",
+                "Vanilla Extract",
+                "Almond Extract",
+                "Pink Food Colouring",
+                "Apricot",
+                "Marzipan",
+                "Icing Sugar"
+            ],
+            "time": 60,
+            "servings": 6
+        },
+        {
+            "name": "Ful Medames",
+            "cuisine": "Egyptian",
+            "instructions": [
+                "As the cooking time varies depending on the quality and age of the beans, it is good to cook them in advance and to reheat them when you are ready to serve. Cook the drained beans in a fresh portion of unsalted water in a large saucepan with the lid on until tender, adding water to keep them covered, and salt when the beans have softened. They take 2–2 1/2 hours of gentle simmering. When the beans are soft, let the liquid reduce. It is usual to take out a ladle or two of the beans and to mash them with some of the cooking liquid, then stir this back into the beans. This is to thicken the sauce.\r\nServe the beans in soup bowls sprinkled with chopped parsley and accompanied by Arab bread.\r\nPass round the dressing ingredients for everyone to help themselves: a bottle of extra-virgin olive oil, the quartered lemons, salt and pepper, a little saucer with the crushed garlic, one with chili-pepper flakes, and one with ground cumin.\r\nThe beans are eaten gently crushed with the fork, so that they absorb the dressing.\r\nOptional Garnishes\r\nPeel hard-boiled eggs—1 per person—to cut up in the bowl with the beans.\r\nTop the beans with a chopped cucumber-and-tomato salad and thinly sliced mild onions or scallions. Otherwise, pass round a good bunch of scallions and quartered tomatoes and cucumbers cut into sticks.\r\nServe with tahina cream sauce (page 65) or salad (page 67), with pickles and sliced onions soaked in vinegar for 30 minutes.\r\nAnother way of serving ful medames is smothered in a garlicky tomato sauce (see page 464).\r\nIn Syria and Lebanon, they eat ful medames with yogurt or feta cheese, olives, and small cucumbers.\r\nVariations\r\nA traditional way of thickening the sauce is to throw a handful of red lentils (1/4 cup) into the water at the start of the cooking.\r\nIn Iraq, large brown beans are used instead of the small Egyptian ones, in a dish called badkila, which is also sold for breakfast in the street."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
+            "ingredients": [
+                "Broad Beans",
+                "Parsley",
+                "Olive Oil",
+                "Lemons",
+                "Garlic Clove",
+                "Cumin"
+            ],
+            "time": 140,
+            "servings": 5
+        },
+        {
+            "name": "Sledz w Oleju (Polish Herrings)",
+            "cuisine": "Polish",
+            "instructions": [
+                "Soak herring in cold water for at least 1 hour. If very salty, repeat, changing the water each time.\r\n\r\nDrain thoroughly and slice herring into bite-size pieces.\r\n\r\nPlace in a jar large enough to accommodate the pieces and cover with oil, allspice, peppercorns, and bay leaf. Close the jar.\r\n\r\nRefrigerate for 2 to 3 days before eating. This will keep refrigerated up to 2 weeks.\r\n\r\nServe with finely chopped onion or onion slices, lemon, and parsley or dill."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
+            "ingredients": [
+                "Herring",
+                "Onion",
+                "Olive Oil",
+                "Allspice",
+                "Pepper",
+                "Bay Leaf"
+            ],
+            "time": 25,
+            "servings": 10
+        },
+        {
+            "name": "Rappie Pie",
+            "cuisine": "Canadian",
+            "instructions": [
+                "Preheat oven to 400 degrees F (200 degrees C). Grease a 10x14x2-inch baking pan.\r\nHeat margarine in a skillet over medium heat; stir in onion. Cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue to cook and stir until onion is very tender and dark brown, about 40 minutes more.\r\nBring chicken broth to a boil in a large pot; stir in chicken breasts, reduce heat, and simmer until chicken is no longer pink at the center, about 20 minutes. Remove from heat. Remove chicken breasts to a plate using a slotted spoon; reserve broth.\r\nJuice potatoes with an electric juicer; place dry potato flesh into a bowl and discard juice. Stir salt and pepper into potatoes; stir in enough reserved broth to make the mixture the consistency of oatmeal. Set remaining broth aside.\r\nSpread half of potato mixture evenly into the prepared pan. Lay cooked chicken breast evenly over potatoes; scatter caramelized onion evenly over chicken. Spread remaining potato mixture over onions and chicken to cover.\r\nBake in the preheated oven until golden brown, about 1 hour. Reheat chicken broth; pour over individual servings as desired."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
+            "ingredients": [
+                "Butter",
+                "Onions",
+                "Chicken Stock",
+                "Chicken Breast",
+                "Potatoes",
+                "Salt",
+                "Black Pepper"
+            ],
+            "time": 140,
+            "servings": 9
+        },
+        {
+            "name": "Beef Lo Mein",
+            "cuisine": "Chinese",
+            "instructions": [
+                "STEP 1 - MARINATING THE BEEF\r\nIn a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1/2 egg, corn starch,1 Tablespoon of oil and mix together.\r\nSTEP 2 - BOILING THE THE NOODLES\r\nIn a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds. After your noodles is done boiling strain and cool with cold water.\r\nSTEP 3 - STIR FRY\r\nAdd 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked.\r\nSet the cooked beef aside\r\nIn a wok add 2 Tablespoon of oil, onions, minced garlic, minced ginger, bean sprouts, mushrooms, peapods and 1.5 cups of water or until the vegetables are submerged in water.\r\nAdd the noodles to wok\r\nTo make the sauce, add oyster sauce, 1 pinch white pepper, 1 teaspoon sesame seed oil, sugar, and 1 Teaspoon of soy sauce.\r\nNext add the beef to wok and stir-fry"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+            "ingredients": [
+                "Beef",
+                "Salt",
+                "Pepper",
+                "Sesame Seed Oil",
+                "Egg",
+                "Starch",
+                "Oil",
+                "Noodles",
+                "Onion",
+                "Minced Garlic",
+                "Ginger",
+                "Bean Sprouts",
+                "Mushrooms",
+                "Water",
+                "Oyster Sauce",
+                "Sugar",
+                "Soy Sauce"
+            ],
+            "time": 150,
+            "servings": 4
+        },
+        {
+            "name": "Osso Buco alla Milanese",
+            "cuisine": "Italian",
+            "instructions": [
+                "Heat the oven to 300 degrees.\r\nDredging the shanks: pour the flour into a shallow dish (a pie plate works nicely). Season the veal shanks on all sides with salt and pepper. One at a time, roll the shanks around in the flour coat, and shake and pat the shank to remove any excuses flour. Discard the remaining flour.\r\nBrowning the shanks: put the oil and 1 tablespoon of the butter in a wide Dutch oven or heavy braising pot (6 to 7 quart) and heat over medium-high heat. When the butter has melted and the oil is shimmering, lower the shanks into the pot, flat side down; if the shanks won’t fit without touching one another, do this in batches. Brown the shanks, turning once with tongs, until both flat sides are well caramelized, about 5 minutes per side. If the butter-oil mixture starts to burn, lower the heat just a bit. Transfer the shanks to a large platter or tray and set aside.\r\nThe aromatics: pour off and discard the fat from the pot. Wipe out any burnt bits with a damp paper towel, being careful not to remove any delicious little caramelized bits. Ad the remaining 2 tablespoons butter to the pot and melt it over medium heat. When the butter has stopped foaming, add the onion, carrot, celery, and fennel. Season with salt and pepper, stir, and cook the vegetables until they begin to soften but do not brown, about 6 minutes. Stir in the garlic, orange zest, marjoram, and bay leaf, and stew for another minute or two.\r\nThe braising liquid: add the wine, increase the heat to high, and bring to a boil. Boil, stirring occasionally, to reduce the wine by about half, 5 minutes. Add the stock and tomatoes, with their juice, and boil again to reduce the liquid to about 1 cup total, about 10 minutes.\r\nThe braise: Place the shanks in the pot so that they are sitting with the exposed bone facing up, and pour over any juices that accumulated as they sat. Cover with parchment paper, pressing down so the parchment nearly touches the veal and the edges hang over the sides of the pot by about an inch. Cover tightly with the lid, and slide into the lower part of the oven to braise at a gentle simmer. Check the pot after the first 15 minutes, and if the liquid is simmering too aggressively, lower the oven heat by 10 or 15 degrees. Continue braising, turning the shanks and spooning some pan juices over the top after the first 40 minutes, until the meat is completely tender and pulling away from the bone, about 2 hours.\r\nThe gremolata: While the shanks are braising, stir together the garlic, parsley, and lemon zest in a small bowl. Cover with plastic wrap and set aside in a cool place (or the refrigerator, if your kitchen is very warm.)\r\nThe finish: When the veal is fork-tender and falling away from the bone, remove the lid and sprinkle over half of the gremolata. Return the veal to the oven, uncovered, for another 15 minutes to caramelize it some.\r\nUsing a slotted spatula or spoon, carefully lift the shanks from the braising liquid, doing your best to keep them intact. The shanks will be very tender and threatening to fall into pieces, and the marrow will be wobbly inside the bones, so this can be a bit tricky. But if they do break apart, don’t worry, the flavor won’t suffer at all. Arrange the shanks on a serving platter or other large plate, without stacking, and cover with foil to keep warm.\r\nFinishing the sauce: Set the braising pot on top of the stove and evaluate the sauce: if there is a visible layer of fat floating on the surface, use a large spoon to skim it off and discard it. Taste the sauce for concentration of flavor. If it tastes a bit weak or flat, bring it to a boil over high heat, and boil to reduce the volume and intensify the flavor for 5 to 10 minutes. Taste again for salt and pepper. If the sauce wants more zip, stir in a teaspoon or two of the remaining gremolata.\r\nPortioning the veal shanks: if the shanks are reasonably sized, serve one per person. If the shanks are gargantuan or you’re dealing with modest appetites, pull apart the larger shanks, separating them at their natural seams, and serve smaller amounts. Be sure to give the marrow bones to whomever prizes them most.\r\nServing: Arrange the veal shanks on warm dinner plates accompanied by the risotto, if serving. Just before carrying the plates to the table, sprinkle on the remaining gremolata and then spoon over a generous amount of sauce – the contact with the hot liquid will aromatize the gremolata and perk up everyone’s appetite with the whiff of garlic and lemon."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+            "ingredients": [
+                "Veal",
+                "Flour",
+                "Olive Oil",
+                "Butter",
+                "Onion",
+                "Carrot",
+                "Celery",
+                "Fennel",
+                "Garlic",
+                "Orange Zest",
+                "Marjoram",
+                "Bay Leaf",
+                "Dry White Wine",
+                "Chicken Stock",
+                "Tomatoes",
+                "Parsley",
+                "Garlic",
+                "Lemon Zest"
+            ],
+            "time": 50,
+            "servings": 7
+        },
+        {
+            "name": "Cajun spiced fish tacos",
+            "cuisine": "Mexican",
+            "instructions": [
+                "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.\r\n\r\nOn a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.\r\n\r\nHeat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.\r\n\r\nMeanwhile, prepare the dressing by combining all the ingredients with a little seasoning.\r\nSoften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "ingredients": [
+                "cajun",
+                "cayenne pepper",
+                "white fish",
+                "vegetable oil",
+                "flour tortilla",
+                "avocado",
+                "little gem lettuce",
+                "spring onion",
+                "salsa",
+                "sour cream",
+                "lemon",
+                "garlic"
+            ],
+            "time": 15,
+            "servings": 6
+        },
+        {
+            "name": "Vegetarian Casserole",
+            "cuisine": "British",
+            "instructions": [
+                "Heat the oil in a large, heavy-based pan. Add the onions and cook gently for 5 – 10 mins until softened.\r\nAdd the garlic, spices, dried thyme, carrots, celery and peppers and cook for 5 minutes.\r\nAdd the tomatoes, stock, courgettes and fresh thyme and cook for 20 - 25 minutes.\r\nTake out the thyme sprigs. Stir in the lentils and bring back to a simmer. Serve with wild and white basmati rice, mash or quinoa."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
+            "ingredients": [
+                "Rapeseed Oil",
+                "Onion",
+                "Garlic",
+                "Paprika",
+                "Cumin",
+                "Thyme",
+                "Carrots",
+                "Celery",
+                "Red Pepper",
+                "Yellow Pepper",
+                "Tomato",
+                "Vegetable Stock Cube",
+                "Courgettes",
+                "Thyme",
+                "Lentils"
+            ],
+            "time": 35,
+            "servings": 2
+        },
+        {
+            "name": "Nanaimo Bars",
+            "cuisine": "Canadian",
+            "instructions": [
+                "Start by making the biscuit base. In a bowl, over a pan of simmering water, melt the butter with the sugar and cocoa powder, stirring occasionally until smooth. Whisk in the egg for 2 to 3 mins until the mixture has thickened. Remove from heat and mix in the biscuit crumbs, coconut and almonds if using, then press into the base of a lined 20cm square tin. Chill for 10 mins.\r\nFor the middle layer, make the custard icing; whisk together the butter, cream and custard powder until light and fluffy, then gradually add the icing sugar until fully incorporated. Spread over the bottom layer and chill in the fridge for at least 10 mins until the custard is no longer soft.\r\nMelt the chocolate and butter together in the microwave, then spread over the chilled bars and put back in the fridge. Leave until the chocolate has fully set (about 2 hrs). Take the mixture out of the tin and slice into squares to serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg",
+            "ingredients": [
+                "Custard",
+                "Caster Sugar",
+                "Cocoa",
+                "Egg",
+                "Digestive Biscuits",
+                "Desiccated Coconut",
+                "Almonds",
+                "Butter",
+                "Double Cream",
+                "Custard Powder",
+                "Icing Sugar",
+                "Dark Chocolate",
+                "Butter"
+            ],
+            "time": 55,
+            "servings": 10
+        },
+        {
+            "name": "Burek",
+            "cuisine": "Croatian",
+            "instructions": [
+                "Fry the finely chopped onions and minced meat in oil. Add the salt and pepper. Grease a round baking tray and put a layer of pastry in it. Cover with a thin layer of filling and cover this with another layer of filo pastry which must be well coated in oil. Put another layer of filling and cover with pastry. When you have five or six layers, cover with filo pastry, bake at 200ºC/392ºF for half an hour and cut in quarters and serve."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg",
+            "ingredients": [
+                "Filo Pastry",
+                "Minced Beef",
+                "Onion",
+                "Oil",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 135,
+            "servings": 2
+        },
+        {
+            "name": "Pouding chomeur",
+            "cuisine": "Canadian",
+            "instructions": [
+                "In a large bowl, with an electric mixer, mix the butter and sugar till the mix is light.\r\nAdd eggs and vanilla and mix.\r\nIn another bowl, mix flour and baking powder.\r\nAlternate flour mix and milk to the butter mix.\r\nPour into a 13 inch by 9 inch greased pan.\r\nMAPLE SAUCE.\r\nIn a large casserole, bring to boil the syrup, brown sugar, cream and butter and constantly stir.\r\nReduce heat and and gently cook 2 minutes or till sauce has reduced a little bit.\r\nPour sauce gently over cake.\r\nBake at 325°f (160°c) about 35 minutes or till cake is light brown and when toothpick inserted comes out clean."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg",
+            "ingredients": [
+                "Butter",
+                "Sugar",
+                "Eggs",
+                "Vanilla Extract",
+                "Flour",
+                "Baking Powder",
+                "Milk",
+                "Maple Syrup",
+                "Brown Sugar",
+                "Single Cream",
+                "Butter"
+            ],
+            "time": 140,
+            "servings": 4
+        },
+        {
+            "name": "Pouding chomeur",
+            "cuisine": "Canadian",
+            "instructions": [
+                "In a large bowl, with an electric mixer, mix the butter and sugar till the mix is light.\r\nAdd eggs and vanilla and mix.\r\nIn another bowl, mix flour and baking powder.\r\nAlternate flour mix and milk to the butter mix.\r\nPour into a 13 inch by 9 inch greased pan.\r\nMAPLE SAUCE.\r\nIn a large casserole, bring to boil the syrup, brown sugar, cream and butter and constantly stir.\r\nReduce heat and and gently cook 2 minutes or till sauce has reduced a little bit.\r\nPour sauce gently over cake.\r\nBake at 325°f (160°c) about 35 minutes or till cake is light brown and when toothpick inserted comes out clean."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg",
+            "ingredients": [
+                "Butter",
+                "Sugar",
+                "Eggs",
+                "Vanilla Extract",
+                "Flour",
+                "Baking Powder",
+                "Milk",
+                "Maple Syrup",
+                "Brown Sugar",
+                "Single Cream",
+                "Butter"
+            ],
+            "time": 70,
+            "servings": 4
+        },
+        {
+            "name": "Vegan Lasagna",
+            "cuisine": "Italian",
+            "instructions": [
+                "1) Preheat oven to 180 degrees celcius. \r\n2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. \r\n3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. \r\n4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.\r\n5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. \r\n6) Bake in the preheated oven for about 25 minutes."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+            "ingredients": [
+                "green red lentils",
+                "carrot",
+                "onion",
+                "zucchini",
+                "coriander",
+                "spinach",
+                "lasagne sheets",
+                "vegan butter",
+                "flour",
+                "soya milk",
+                "mustard",
+                "vinegar"
+            ],
+            "time": 110,
+            "servings": 3
+        },
+        {
+            "name": "Chicken & mushroom Hotpot",
+            "cuisine": "British",
+            "instructions": [
+                "Heat oven to 200C/180C fan/gas 6. Put the butter in a medium-size saucepan and place over a medium heat. Add the onion and leave to cook for 5 mins, stirring occasionally. Add the mushrooms to the saucepan with the onions.\r\n\r\nOnce the onion and mushrooms are almost cooked, stir in the flour – this will make a thick paste called a roux. If you are using a stock cube, crumble the cube into the roux now and stir well. Put the roux over a low heat and stir continuously for 2 mins – this will cook the flour and stop the sauce from having a floury taste.\r\n\r\nTake the roux off the heat. Slowly add the fresh stock, if using, or pour in 500ml water if you’ve used a stock cube, stirring all the time. Once all the liquid has been added, season with pepper, a pinch of nutmeg and mustard powder. Put the saucepan back onto a medium heat and slowly bring it to the boil, stirring all the time. Once the sauce has thickened, place on a very low heat. Add the cooked chicken and vegetables to the sauce and stir well. Grease a medium-size ovenproof pie dish with a little butter and pour in the chicken and mushroom filling.\r\n\r\nCarefully lay the potatoes on top of the hot-pot filling, overlapping them slightly, almost like a pie top.\r\n\r\nBrush the potatoes with a little melted butter and cook in the oven for about 35 mins. The hot-pot is ready once the potatoes are cooked and golden brown."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+            "ingredients": [
+                "Butter",
+                "Onion",
+                "Mushrooms",
+                "Plain Flour",
+                "Chicken Stock Cube",
+                "Nutmeg",
+                "Mustard Powder",
+                "Chicken",
+                "Sweetcorn",
+                "Potatoes",
+                "Butter"
+            ],
+            "time": 105,
+            "servings": 10
+        },
+        {
+            "name": "Three Fish Pie",
+            "cuisine": "British",
+            "instructions": [
+                "Preheat the oven to 200C/400F/Gas 6 (180C fan).\r\nPut the potatoes into a saucepan of cold salted water. Bring up to the boil and simmer until completely tender. Drain well and then mash with the butter and milk. Add pepper and taste to check the seasoning. Add salt and more pepper if necessary.\r\nFor the fish filling, melt the butter in a saucepan, add the leeks and stir over the heat. Cover with a lid and simmer gently for 10 minutes, or until soft. Measure the flour into a small bowl. Add the wine and whisk together until smooth.\r\nAdd the milk to the leeks, bring to the boil and then add the wine mixture. Stir briskly until thickened. Season and add the parsley and fish. Stir over the heat for two minutes, then spoon into an ovenproof casserole. Scatter over the eggs. Allow to cool until firm.\r\nSpoon the mashed potatoes over the fish mixture and mark with a fork. Sprinkle with cheese.\r\nBake for 30-40 minutes, or until lightly golden-brown on top and bubbling around the edges."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg",
+            "ingredients": [
+                "Potatoes",
+                "Butter",
+                "Milk",
+                "Gruyère",
+                "Butter",
+                "Leek",
+                "Plain Flour",
+                "White Wine",
+                "Milk",
+                "Parsley",
+                "Salmon",
+                "Haddock",
+                "Smoked Haddock",
+                "Eggs"
+            ],
+            "time": 15,
+            "servings": 7
+        },
+        {
+            "name": "Chick-Fil-A Sandwich",
+            "cuisine": "American",
+            "instructions": [
+                "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around.\r\nCut into two pieces, as even as possible.\r\nMarinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich).\r\nBeat the egg with the milk in a bowl.\r\nCombine the flour, sugar, and spices in another bowl.\r\nDip the chicken pieces each into the egg on both sides, then coat in flour on both sides.\r\nHeat the oil in a skillet (1/2 inch deep) to about 345-350.\r\nFry each cutlet for 2 minutes on each side, or until golden and cooked through.\r\nBlot on paper and serve on toasted buns with pickle slices."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+            "ingredients": [
+                "Chicken Breast",
+                "Pickle Juice",
+                "Egg",
+                "Milk",
+                "Flour",
+                "Icing Sugar",
+                "Paprika",
+                "Salt",
+                "Black Pepper",
+                "Garlic Powder",
+                "Celery Salt",
+                "Cayenne Pepper",
+                "Olive Oil",
+                "Sesame Seed Burger Buns"
+            ],
+            "time": 150,
+            "servings": 2
+        },
+        {
+            "name": "Chicken Marengo",
+            "cuisine": "French",
+            "instructions": [
+                "Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften. Add the chicken legs and cook briefly on each side to colour them a little.\r\nPour in the passata, crumble in the stock cube and stir in the olives. Season with black pepper – you shouldn’t need salt. Cover and simmer for 40 mins until the chicken is tender. Sprinkle with parsley and serve with pasta and a salad, or mash and green veg, if you like."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+            "ingredients": [
+                "Olive Oil",
+                "Mushrooms",
+                "Chicken Legs",
+                "Passata",
+                "Chicken Stock Cube",
+                "Black Olives",
+                "Parsley"
+            ],
+            "time": 90,
+            "servings": 6
+        },
+        {
+            "name": "Mediterranean Pasta Salad",
+            "cuisine": "Italian",
+            "instructions": [
+                "Bring a large saucepan of salted water to the boil\r\nAdd the pasta, stir once and cook for about 10 minutes or as directed on the packet.\r\nMeanwhile, wash the tomatoes and cut into quarters. Slice the olives. Wash the basil.\r\nPut the tomatoes into a salad bowl and tear the basil leaves over them. Add a tablespoon of olive oil and mix.\r\nWhen the pasta is ready, drain into a colander and run cold water over it to cool it quickly.\r\nToss the pasta into the salad bowl with the tomatoes and basil.\r\nAdd the sliced olives, drained mozzarella balls, and chunks of tuna. Mix well and let the salad rest for at least half an hour to allow the flavours to mingle.\r\nSprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+            "ingredients": [
+                "mozzarella balls",
+                "baby plum tomatoes",
+                "fresh basil",
+                "farfalle",
+                "extra virgin olive oil",
+                "Green Olives",
+                "tuna",
+                "salt",
+                "pepper"
+            ],
+            "time": 150,
+            "servings": 3
+        },
+        {
+            "name": "Mee goreng mamak",
+            "cuisine": "Malaysian",
+            "instructions": [
+                "Heat oil in a pan at medium heat. Then, add peanuts, dried chilies, dried shrimps and dhal. Fry the aromatics until fragrant. Remove from pan and leave aside.\r\n\r\nBlend fried ingredients with tamarind paste and water until fine. Then, sauté the blended ingredients in oil heated over low heat. Continue cooking until the oil separates from the paste and turns a darker shade.\r\n\r\nSkin and cut potatoes into small chunks and boil them in a pot of water until knife-tender. Once ready, remove them from the pot and leave aside. Discard water.\r\n\r\nSlice onion and fried tofu, mince garlic, cut some cabbage and Chinese flowering cabbage (choi sam). Prepare prawn fritters and cut them. Boil noodles to soften them if bought dried. Also mix black soy sauce with water.\r\n\r\nTo fry one portion of mee goreng mamak, heat oil and add 1/4 of the following ingredients in this order: garlic, onion, paste. Sauté until fragrant. Optionally, add prawns.\r\n\r\nAdd in 1/4 amount of tofu, boiled potatoes, cabbage, Chinese flowering cabbage and prawn fritters. Sauté for another 30 seconds.\r\n\r\nAdd noodles to the wok. Add 3 tablespoons of dark soy sauce mixture. Mix evenly for the next 1 minute. Then, move the noodles to the side of the wok. Stir in an egg. Garnish with a slice of lime and slices of green chilies. To cook another plate of noodles, repeat from step 5 onwards."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
+            "ingredients": [
+                "Peanuts",
+                "Chilli",
+                "Prawns",
+                "Oil",
+                "Water",
+                "Tamarind Paste",
+                "Potatoes",
+                "Red Onions",
+                "Garlic Clove",
+                "Cabbage",
+                "Chinese Broccoli",
+                "Tofu",
+                "Soy Sauce",
+                "Noodles",
+                "Egg"
+            ],
+            "time": 80,
+            "servings": 8
+        },
+        {
+            "name": "Tarte Tatin",
+            "cuisine": "French",
+            "instructions": [
+                "Roll the pastry to a 3mm-thick round on a lightly floured surface and cut a 24cm circle, using a plate as a guide. Lightly prick all over with a fork, wrap in cling film on a baking sheet and freeze while preparing the apples.\r\nHeat oven to 180C/160C fan/gas 4. Peel, quarter and core the apples. Put the sugar in a flameproof 20cm ceramic Tatin dish or a 20cm ovenproof heavy-based frying pan and place over a medium-high heat. Cook the sugar for 5-7 mins to a dark amber caramel syrup that’s starting to smoke, then turn off the heat and stir in the 60g diced chilled butter.\r\nTo assemble the Tarte Tatin, arrange the apple quarters very tightly in a circle around the edge of the dish first, rounded-side down, then fill in the middle in a similar fashion. Gently press with your hands to ensure there are no gaps. Brush the fruit with the melted butter.\r\nBake in the oven for 30 mins, then remove and place the disc of frozen puff pastry on top – it will quickly defrost. Tuck the edges down the inside of the dish and, with a knife, prick a few holes in the pastry to allow steam to escape. Bake for a further 40-45 mins until the pastry is golden brown and crisp.\r\nAllow to cool to room temperature for 1 hr before running a knife around the edge of the dish and inverting it onto a large serving plate that is deep enough to contain the juices. Serve with crème fraîche or vanilla ice cream."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg",
+            "ingredients": [
+                "Puff Pastry",
+                "Plain Flour",
+                "Braeburn Apples",
+                "Caster Sugar",
+                "Butter",
+                "Creme Fraiche"
+            ],
+            "time": 20,
+            "servings": 9
+        },
+        {
+            "name": "Yaki Udon",
+            "cuisine": "Japanese",
+            "instructions": [
+                "Boil some water in a large saucepan. Add 250ml cold water and the udon noodles. (As they are so thick, adding cold water helps them to cook a little bit slower so the middle cooks through). If using frozen or fresh noodles, cook for 2 mins or until al dente; dried will take longer, about 5-6 mins. Drain and leave in the colander.\r\nHeat 1 tbsp of the oil, add the onion and cabbage and sauté for 5 mins until softened. Add the mushrooms and some spring onions, and sauté for 1 more min. Pour in the remaining sesame oil and the noodles. If using cold noodles, let them heat through before adding the ingredients for the sauce – otherwise tip in straight away and keep stir-frying until sticky and piping hot. Sprinkle with the remaining spring onions."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+            "ingredients": [
+                "Udon Noodles",
+                "Sesame Seed Oil",
+                "Onion",
+                "Cabbage",
+                "Shiitake Mushrooms",
+                "Spring Onions",
+                "Mirin",
+                "Soy Sauce",
+                "Caster Sugar",
+                "Worcestershire Sauce"
+            ],
+            "time": 110,
+            "servings": 4
+        },
+        {
+            "name": "Bread and Butter Pudding",
+            "cuisine": "British",
+            "instructions": [
+                "Grease a 1 litre/2 pint pie dish with butter.\r\nCut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles.\r\nArrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas. Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread. Finish with a layer of bread, then set aside.\r\nGently warm the milk and cream in a pan over a low heat to scalding point. Don't let it boil.\r\nCrack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale.\r\nAdd the warm milk and cream mixture and stir well, then strain the custard into a bowl.\r\nPour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes.\r\nPreheat the oven to 180C/355F/Gas 4.\r\nPlace the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+            "ingredients": [
+                "butter",
+                "bread",
+                "sultanas",
+                "cinnamon",
+                "milk",
+                "double cream",
+                "eggs",
+                "sugar",
+                "nutmeg"
+            ],
+            "time": 80,
+            "servings": 8
+        },
+        {
+            "name": "Chick-Fil-A Sandwich",
+            "cuisine": "American",
+            "instructions": [
+                "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around.\r\nCut into two pieces, as even as possible.\r\nMarinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich).\r\nBeat the egg with the milk in a bowl.\r\nCombine the flour, sugar, and spices in another bowl.\r\nDip the chicken pieces each into the egg on both sides, then coat in flour on both sides.\r\nHeat the oil in a skillet (1/2 inch deep) to about 345-350.\r\nFry each cutlet for 2 minutes on each side, or until golden and cooked through.\r\nBlot on paper and serve on toasted buns with pickle slices."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+            "ingredients": [
+                "Chicken Breast",
+                "Pickle Juice",
+                "Egg",
+                "Milk",
+                "Flour",
+                "Icing Sugar",
+                "Paprika",
+                "Salt",
+                "Black Pepper",
+                "Garlic Powder",
+                "Celery Salt",
+                "Cayenne Pepper",
+                "Olive Oil",
+                "Sesame Seed Burger Buns"
+            ],
+            "time": 65,
+            "servings": 3
+        },
+        {
+            "name": "Salted Caramel Cheescake",
+            "cuisine": "American",
+            "instructions": [
+                "1) Blitz the biscuits and the pretzels in a food processor and mix the biscuits with the melted butter. Spread on the bottom of an 8″/20cm Deep Springform Tin and press down firmly. Leave to set in the fridge whilst you make the rest!\r\n\r\n2) Using an electric mixer, I use my KitchenAid with the whisk attachment, whisk together the cream cheese, vanilla, and icing sugar until smooth and then add the caramel and whisk again until smooth and lump free – this could take a couple of minutes, I whisk it at half speed so not too quick or slow!\r\n\r\n3) Pour in the double cream & Salt flakes and continue to whisk for a couple of minutes until its very thick and mousse like (I mix it on a medium speed, level 6/10) – Now this could take up to 5 minutes depending on your mixer, but you seriously have to stick at it – it will hold itself completely when finished mixing (like a meringue does!) If you don’t mix it enough it will not set well enough, but don’t get impatient and whisk it really quick because that’ll make it split! Spread over the biscuit base and leave to set in the fridge overnight.\r\n\r\n4) Remove the Cheesecake from the tin carefully and decorate the cheesecake – I drizzled over some of the spare caramel, and then some Toffee Popcorn and more Pretzels!"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
+            "ingredients": [
+                "Digestive Biscuits",
+                "Pretzels",
+                "Butter",
+                "Cream Cheese",
+                "Vanilla Extract",
+                "Icing Sugar",
+                "Caramel",
+                "Sea Salt",
+                "Double Cream",
+                "Caramel Sauce",
+                "Toffee Popcorn",
+                "Pretzels"
+            ],
+            "time": 140,
+            "servings": 5
+        },
+        {
+            "name": "Paszteciki (Polish Pasties)",
+            "cuisine": "Polish",
+            "instructions": [
+                "Sift flour and salt into a large mixing bowl.\r\nUse a spoon to push the egg yolk through a fine sieve into the flour.\r\nAdd the raw egg and mix well.\r\nBeat in butter 1 tablespoon at a time.\r\nPlace dough on a floured surface and knead until smooth and elastic, then wrap in waxed paper and refrigerate until firm (at least 30 minutes).\r\nIn a heavy skillet, melt 2 tablespoons butter over medium heat; saute the onion and rutabaga until the onion is soft and transparent (5 minutes).\r\nPut the onions, rutabaga, and beef through a meat grinder twice if you have one, if not just chop them up as fine as possible.\r\nMelt the remaining 4 tablespoons butter over medium heat, and add the meat mixture.\r\nCook over low heat, stirring occasionally, until all of the liquid has evaporated and the mixture is thick enough to hold its shape.\r\nRemove from heat and let cool, then stir in 1 egg, and season with salt and pepper.\r\nPreheat oven to 350°F.\r\nOn a lightly floured surface, roll the dough out into a 13x8\" rectangle (1/8\" thick).\r\nSpoon the filling down the center of the rectangle lengthwise, leaving about an inch of space on each end.\r\nLightly brush the long sides with cold water, then fold one of the long sides over the filling and the other side over the top of that.\r\nBrush the short ends with cold water and fold them over the top, enclosing the filling.\r\nPlace pastry seam side down on a baking sheet and brush the top evenly with the remaining scrambled egg.\r\nBake in preheated oven until rich golden brown (30 minutes).\r\nSlice pastry diagonally into 1.5\" long pieces and serve as an appetizer or with soup."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/c9a3l31593261890.jpg",
+            "ingredients": [
+                "Flour",
+                "Salt",
+                "Egg",
+                "Egg",
+                "Butter",
+                "Butter",
+                "Onion",
+                "Swede",
+                "Beef Brisket",
+                "Eggs",
+                "Salt",
+                "Pepper"
+            ],
+            "time": 120,
+            "servings": 3
+        },
+        {
+            "name": "Creamy Tomato Soup",
+            "cuisine": "British",
+            "instructions": [
+                "Put the oil, onions, celery, carrots, potatoes and bay leaves in a big casserole dish, or two saucepans. Fry gently until the onions are softened – about 10-15 mins. Fill the kettle and boil it.\r\nStir in the tomato purée, sugar, vinegar, chopped tomatoes and passata, then crumble in the stock cubes. Add 1 litre boiling water and bring to a simmer. Cover and simmer for 15 mins until the potato is tender, then remove the bay leaves. Purée with a stick blender (or ladle into a blender in batches) until very smooth. Season to taste and add a pinch more sugar if it needs it. The soup can now be cooled and chilled for up to 2 days, or frozen for up to 3 months.\r\nTo serve, reheat the soup, stirring in the milk – try not to let it boil. Serve in small bowls with cheesy sausage rolls."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+            "ingredients": [
+                "Olive Oil",
+                "Onions",
+                "Celery",
+                "Carrots",
+                "Potatoes",
+                "Bay Leaf",
+                "Tomato Puree",
+                "Sugar",
+                "White Vinegar",
+                "Chopped Tomatoes",
+                "Passata",
+                "Vegetable Stock Cube",
+                "Whole Milk"
+            ],
+            "time": 90,
+            "servings": 2
+        },
+        {
+            "name": "Chick-Fil-A Sandwich",
+            "cuisine": "American",
+            "instructions": [
+                "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around.\r\nCut into two pieces, as even as possible.\r\nMarinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich).\r\nBeat the egg with the milk in a bowl.\r\nCombine the flour, sugar, and spices in another bowl.\r\nDip the chicken pieces each into the egg on both sides, then coat in flour on both sides.\r\nHeat the oil in a skillet (1/2 inch deep) to about 345-350.\r\nFry each cutlet for 2 minutes on each side, or until golden and cooked through.\r\nBlot on paper and serve on toasted buns with pickle slices."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+            "ingredients": [
+                "Chicken Breast",
+                "Pickle Juice",
+                "Egg",
+                "Milk",
+                "Flour",
+                "Icing Sugar",
+                "Paprika",
+                "Salt",
+                "Black Pepper",
+                "Garlic Powder",
+                "Celery Salt",
+                "Cayenne Pepper",
+                "Olive Oil",
+                "Sesame Seed Burger Buns"
+            ],
+            "time": 90,
+            "servings": 2
+        },
+        {
+            "name": "Katsu Chicken curry",
+            "cuisine": "Japanese",
+            "instructions": [
+                "Prep:15min  ›  Cook:30min  ›  Ready in:45min \r\n\r\nFor the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened. Stir in carrots and cook over low heat for 10 to 12 minutes.\r\nAdd flour and curry powder; cook for 1 minute. Gradually stir in stock until combined; add honey, soy sauce and bay leaf. Slowly bring to the boil.\r\nTurn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve.\r\nFor the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides.\r\nHeat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil.\r\nPour curry sauce over chicken, serve with white rice and enjoy!"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+            "ingredients": [
+                "chicken breast",
+                "plain flour",
+                "egg",
+                "breadcrumbs",
+                "vegetable oil",
+                "sunflower oil",
+                "onions",
+                "garlic",
+                "carrot",
+                "plain flour",
+                "curry powder",
+                "chicken stock",
+                "honey",
+                "soy sauce",
+                "bay leaf",
+                "garam masala"
+            ],
+            "time": 90,
+            "servings": 6
+        },
+        {
+            "name": "Bakewell tart",
+            "cuisine": "British",
+            "instructions": [
+                "To make the pastry, measure the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Add the water, mixing to form a soft dough.\r\nRoll out the dough on a lightly floured work surface and use to line a 20cm/8in flan tin. Leave in the fridge to chill for 30 minutes.\r\nPreheat the oven to 200C/400F/Gas 6 (180C fan).\r\nLine the pastry case with foil and fill with baking beans. Bake blind for about 15 minutes, then remove the beans and foil and cook for a further five minutes to dry out the base.\r\nFor the filing, spread the base of the flan generously with raspberry jam.\r\nMelt the butter in a pan, take off the heat and then stir in the sugar. Add ground almonds, egg and almond extract. Pour into the flan tin and sprinkle over the flaked almonds.\r\nBake for about 35 minutes. If the almonds seem to be browning too quickly, cover the tart loosely with foil to prevent them burning."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+            "ingredients": [
+                "plain flour",
+                "chilled butter",
+                "cold water",
+                "raspberry jam",
+                "butter",
+                "caster sugar",
+                "ground almonds",
+                "free-range egg, beaten",
+                "almond extract",
+                "flaked almonds"
+            ],
+            "time": 85,
+            "servings": 5
+        },
+        {
+            "name": "Beef Sunday Roast",
+            "cuisine": "British",
+            "instructions": [
+                "Cook the Broccoli and Carrots in a pan of boiling water until tender.\r\n\r\nRoast the Beef and Potatoes in the oven for 45mins, the potatoes may need to be checked regularly to not overcook.\r\n\r\nTo make the Yorkshire puddings:\r\nHeat oven to 230C/fan 210C/gas 8. Drizzle a little sunflower oil evenly into 2 x 4-hole Yorkshire pudding tins or a 12-hole non-stick muffin tin and place in the oven to heat through\r\nTo make the batter, tip 140g plain flour into a bowl and beat in four eggs until smooth. Gradually add 200ml milk and carry on beating until the mix is completely lump-free. Season with salt and pepper. Pour the batter into a jug, then remove the hot tins from the oven. Carefully and evenly pour the batter into the holes. Place the tins back in the oven and leave undisturbed for 20-25 mins until the puddings have puffed up and browned. Serve immediately.\r\n\r\nPlate up and add the Gravy as desired."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+            "ingredients": [
+                "Beef",
+                "Broccoli",
+                "Potatoes",
+                "Carrots",
+                "plain flour",
+                "Eggs",
+                "milk",
+                "sunflower oil"
+            ],
+            "time": 130,
+            "servings": 4
+        },
+        {
+            "name": "Koshari",
+            "cuisine": "Egyptian",
+            "instructions": [
+                "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).\r\nNow, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you’ll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.\r\nNow make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.\r\nCover the chickpeas and warm in the microwave briefly before serving.\r\n\r\nMake the crispy onion topping. \r\n\r\nSprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.\r\nIn a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes)."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+            "ingredients": [
+                "Brown Lentils",
+                "Rice",
+                "Coriander",
+                "Macaroni",
+                "Chickpeas",
+                "Onion",
+                "Salt",
+                "Vegetable Oil"
+            ],
+            "time": 100,
+            "servings": 7
+        },
+        {
+            "name": "Chinon Apple Tarts",
+            "cuisine": "French",
+            "instructions": [
+                "To make the red wine jelly, put the red wine, jam sugar, star anise, clove, cinnamon stick, allspice, split vanilla pod and seeds in a medium saucepan. Stir together, then heat gently to dissolve the sugar. Turn up the heat and boil for 20 mins until reduced and syrupy. Strain into a small, sterilised jam jar and leave to cool completely. Will keep in the fridge for up to 1 month.\r\n\r\nTake the pastry out of the fridge and leave at room temperature for 10 mins, then unroll. Heat the grill to high and heat the oven to 180C/160C fan/gas 4. Cut out 2 x 13cm circles of pastry, using a plate as a guide, and place on a non-stick baking sheet. Sprinkle each circle with 1 tbsp sugar and grill for 5 mins to caramelise, watching carefully so that the sugar doesn’t burn. Remove from the grill. Can be done a few hours ahead, and left, covered, out of the fridge.\r\n\r\nPeel, quarter and core the apples, cut into 2mm-thin slices and arrange on top of the pastry. Sprinkle over the remaining sugar and pop in the oven for 20-25 mins until the pastry is cooked through and golden, and the apples are softened. Remove and allow to cool slightly. Warm 3 tbsp of the red wine jelly in a small pan over a low heat with 1 tsp water to make it a little more runny, then brush over the top of the tarts.\r\n\r\nTip the crème fraîche into a bowl, sift over the icing sugar and cardamom, and mix together. Carefully lift the warm tarts onto serving plates and serve with the cardamom crème fraîche."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
+            "ingredients": [
+                "Puff Pastry",
+                "Dark Brown Soft Sugar",
+                "Braeburn Apples",
+                "Red Wine Jelly",
+                "Creme Fraiche",
+                "Icing Sugar",
+                "Cardamom"
+            ],
+            "time": 100,
+            "servings": 3
+        },
+        {
+            "name": "Cream Cheese Tart",
+            "cuisine": "Unknown",
+            "instructions": [
+                "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time. In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well. With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+            "ingredients": [
+                "Flour",
+                "Butter",
+                "Egg",
+                "Salt",
+                "Cheese",
+                "Milk",
+                "Eggs",
+                "Parmesan Cheese",
+                "Plum tomatoes",
+                "White Vinegar",
+                "Honey",
+                "Basil"
+            ],
+            "time": 80,
+            "servings": 3
+        },
+        {
+            "name": "Vegan Lasagna",
+            "cuisine": "Italian",
+            "instructions": [
+                "1) Preheat oven to 180 degrees celcius. \r\n2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. \r\n3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. \r\n4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.\r\n5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. \r\n6) Bake in the preheated oven for about 25 minutes."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+            "ingredients": [
+                "green red lentils",
+                "carrot",
+                "onion",
+                "zucchini",
+                "coriander",
+                "spinach",
+                "lasagne sheets",
+                "vegan butter",
+                "flour",
+                "soya milk",
+                "mustard",
+                "vinegar"
+            ],
+            "time": 125,
+            "servings": 3
+        },
+        {
+            "name": "Bitterballen (Dutch meatballs)",
+            "cuisine": "Dutch",
+            "instructions": [
+                "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a couple of minutes on a low heat while you stir in the onion, parsley and the shredded meat. The mixture should thicken and turn into a heavy, thick sauce.\r\n\r\nPour the mixture into a shallow container, cover and refrigerate for several hours, or until the sauce has solidified.\r\n\r\nTake a heaping tablespoon of the cold, thick sauce and quickly roll it into a small ball. Roll lightly through the flour, then the egg and finally the breadcrumbs. Make sure that the egg covers the whole surface of the bitterbal. When done, refrigerate the snacks while the oil in your fryer heats up to 190C (375F). Fry four bitterballen at a time, until golden.\r\n\r\nServe on a plate with a nice grainy or spicy mustard. \r\n"
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg",
+            "ingredients": [
+                "Butter",
+                "Flour",
+                "Beef Stock",
+                "Onion",
+                "Parsley",
+                "Beef",
+                "Salt",
+                "Pepper",
+                "Nutmeg",
+                "Flour",
+                "Eggs",
+                "Breadcrumbs"
+            ],
+            "time": 10,
+            "servings": 3
+        },
+        {
+            "name": "Chicken Congee",
+            "cuisine": "Chinese",
+            "instructions": [
+                "STEP 1 - MARINATING THE CHICKEN\r\nIn a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.\r\nSet the chicken aside.\r\nSTEP 2 - RINSE THE WHITE RICE\r\nRinse the rice in a metal bowl or pot a couple times and then drain the water.\r\nSTEP 2 - BOILING THE WHITE RICE\r\nNext add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.\r\nAfter 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.\r\nNext add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.\r\nAfter an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.\r\nServe the rice porridge in a bowl\r\nOptional: add Coriander on top of the rice porridge."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+            "ingredients": [
+                "Chicken",
+                "Salt",
+                "Pepper",
+                "Ginger Cordial",
+                "Ginger",
+                "Spring Onions",
+                "Rice",
+                "Water",
+                "Coriander"
+            ],
+            "time": 140,
+            "servings": 9
+        },
+        {
+            "name": "Lamb tomato and sweet spices",
+            "cuisine": "Moroccan",
+            "instructions": [
+                "Use pickled vine leaves here, preserved in brine. Small delicate leaves are better than the large bristly ones but, if only large leaves are to hand, then trim them to roughly 12 by 12 cms so that you don't get too many layers of leaves around the filling. And remove any stalks. Drain the preserved leaves, immerse them in boiling water for 10 minutes and then leave to dry on a tea towel before use. \r\nBasmati rice with butter and pine nuts is an ideal accompaniment. Couscous is great, too. Serves four.\r\nFirst make the filling. Put all the ingredients, apart from the tomatoes, in a bowl. Cut the tomatoes in half, coarsely grate into the bowl and discard the skins. Add half a teaspoon of salt and some black pepper, and stir. Leave on the side, or in the fridge, for up to a day. Before using, gently squeeze with your hands and drain away any juices that come out.\r\nTo make the sauce, heat the oil in a medium pan. Add the ginger and garlic, cook for a minute or two, taking care not to burn them, then add the tomato, lemon juice and sugar. Season, and simmer for 20 minutes.\r\nWhile the sauce is bubbling away, prepare the vine leaves. Use any torn or broken leaves to line the base of a wide, heavy saucepan. Trim any leaves from the fennel, cut it vertically into 0.5cm-thick slices and spread over the base of the pan to cover completely.\r\nLay a prepared vine leaf (see intro) on a work surface, veiny side up. Put two teaspoons of filling at the base of the leaf in a 2cm-long by 1cm-wide strip. Fold the sides of the leaf over the filling, then roll it tightly from bottom to top, in a cigar shape. Place in the pan, seam down, and repeat with the remaining leaves, placing them tightly next to each other in lines or circles (in two layers if necessary).\r\nPour the sauce over the leaves (and, if needed, add water just to cover). Place a plate on top, to weigh the leaves down, then cover with a lid. Bring to a boil, reduce the heat and cook on a bare simmer for 70 minutes. Most of the liquid should evaporate. Remove from the heat, and leave to cool a little - they are best served warm. When serving, bring to the table in the pan - it looks great. Serve a few vine leaves and fennel slices with warm rice. Spoon the braising juices on top and garnish with coriander."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+            "ingredients": [
+                "olive oil",
+                "ginger",
+                "garlic",
+                "tomatoes",
+                "lemon juice",
+                "caster sugar",
+                "vine leaves",
+                "fennel bulb",
+                "lamb mince",
+                "onion",
+                "potato",
+                "basmati rice",
+                "chopped parsley",
+                "coriander",
+                "lemon juice",
+                "garlic",
+                "clove",
+                "cinnamon",
+                "tomatoes"
+            ],
+            "time": 75,
+            "servings": 4
+        },
+        {
+            "name": "Spotted Dick",
+            "cuisine": "British",
+            "instructions": [
+                "Put the flour and salt in a bowl. Add the suet, currants, sugar, lemon and orange zest.\r\nPour in 150ml milk and mix to a firm but moist dough, adding the extra milk if necessary.\r\nShape into a fat roll about 20cm long. Place on a large rectangle of baking parchment. Wrap loosely to allow for the pudding to rise and tie the ends with string like a Christmas cracker.\r\nPlace a steamer over a large pan of boiling water, add the pudding to the steamer, cover and steam for 1 1/2 hours. Top up the pan with water from time to time.\r\nRemove from the steamer and allow to cool slightly before unwrapping. Serve sliced with custard."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg",
+            "ingredients": [
+                "Self-raising Flour",
+                "Salt",
+                "Suet",
+                "Currants",
+                "Caster Sugar",
+                "Lemon",
+                "Orange",
+                "Milk",
+                "Custard"
+            ],
+            "time": 20,
+            "servings": 9
+        },
+        {
+            "name": "Chicken Ham and Leek Pie",
+            "cuisine": "British",
+            "instructions": [
+                "Heat the chicken stock in a lidded saucepan. Add the chicken breast and bring to a low simmer. Cover with a lid and cook for 10 minutes. Remove the chicken breasts from the water with tongs and place on a plate. Pour the cooking liquor into a large jug.\r\nMelt 25g/1oz of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly.\r\nSlowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250ml/10fl oz of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes.\r\nSeason the mixture, to taste, with salt and freshly ground black pepper. Remove from the heat and stir in the cream. Pour into a large bowl and cover the surface of the sauce with cling ilm to prevent a skin forming. Set aside to cool.\r\nPreheat the oven to 200C/400F/Gas 6. Put a baking tray in the oven to heat.\r\nFor the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250g/10oz of pastry for the lid.\r\nRoll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm/¼in thick and 4cm/1½in larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides.\r\nCut the chicken breasts into 3cm/1¼in pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid.\r\nCover the pie with the pastry lid and press the edges together firmly to seal. Trim any excess pastry.\r\nMake a small hole in the centre of the pie with the tip of a knife. Glaze the top of the pie with beaten egg. Bake on the preheated tray in the centre of the oven for 35-40 minutes or until the pie is golden-brown all over and the filling is piping hot."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+            "ingredients": [
+                "Chicken Stock",
+                "Chicken Breast",
+                "Butter",
+                "Leek",
+                "Garlic",
+                "Plain Flour",
+                "Milk",
+                "White Wine",
+                "Double Cream",
+                "Ham",
+                "Sea Salt",
+                "Pepper",
+                "Plain Flour",
+                "Butter",
+                "Free-range Egg, Beaten",
+                "Cold Water",
+                "Free-range Egg, Beaten"
+            ],
+            "time": 105,
+            "servings": 10
+        },
+        {
+            "name": "Croatian Bean Stew",
+            "cuisine": "Croatian",
+            "instructions": [
+                "Heat the oil in a pan. Add the chopped vegetables and sauté until tender. Take a pot, empty the beans together with the vegetables into it, put the sausages inside and cook for further 20 minutes on a low heat. Or, put it in an oven and bake it at a temperature of 180ºC/350ºF for 30 minutes. This dish is even better reheated the next day."
+            ],
+            "image": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg",
+            "ingredients": [
+                "Cannellini Beans",
+                "Vegetable Oil",
+                "Tomatoes",
+                "Challots",
+                "Garlic",
+                "Parsley",
+                "Chorizo"
+            ],
+            "time": 5,
+            "servings": 5
         }
     ]
 }
