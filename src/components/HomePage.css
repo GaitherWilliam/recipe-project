@@ -49,3 +49,8 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+.no-results {
+    background-color: var(--background);
+    border: double 2px var(--dark-pink);
+}

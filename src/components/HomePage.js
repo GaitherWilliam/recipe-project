@@ -94,7 +94,7 @@ export default function HomePage() {
 
             {isRecipeListEmpty()
                 ?
-                <h1>No results for this search</h1>
+                <h1 className='no-results'>No results for this search</h1>
                 :
                 <RecipeList recipes={filteredRecipes} />
             }
